@@ -9,3 +9,5 @@ npm install angular/flex-layout-builds --save
 =====================================================
 https://medium.com/letsboot/quick-start-with-angular-material-and-flex-layout-1b065aa1476c
 ===========================================================================================
+https://github.com/trimox/angular-mdc-web/blob/master/docs/guide-angular-cli.md
+===========================================================================================
