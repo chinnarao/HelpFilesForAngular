@@ -18,3 +18,4 @@ cmd> go to prj dir > firebase init   => firebase login
 =========================================================
 navbar:- https://www.youtube.com/watch?v=wW6izB7NDyA
 =========================================================
+prettier:- https://prettier.io/
