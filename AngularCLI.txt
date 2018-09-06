@@ -12,6 +12,7 @@ https://medium.com/letsboot/quick-start-with-angular-material-and-flex-layout-1b
 https://github.com/trimox/angular-mdc-web/blob/master/docs/guide-angular-cli.md
 ===========================================================================================
 https://www.youtube.com/watch?v=44H8FwHJ4qM
+firebase:- https://www.youtube.com/watch?v=mfONkAj4x94
 npm install -g firebase-tools
 cmd> go to prj dir > firebase init   => firebase login
 =========================================================
