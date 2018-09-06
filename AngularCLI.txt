@@ -19,3 +19,10 @@ cmd> go to prj dir > firebase init   => firebase login
 navbar:- https://www.youtube.com/watch?v=wW6izB7NDyA
 =========================================================
 prettier:- https://prettier.io/
+========================================github oauth======
+application name:scooppages
+home page url: http://localhost:4200
+Authorization callback URL: https://scooppagesdev1.firebaseapp.com/__/auth/handler
+Client ID: 71e708d7c9262ea32f5e
+Client Secret: 1c1131de20d8ed987961e4e4a5445594da4c26c4
+==========================================================
