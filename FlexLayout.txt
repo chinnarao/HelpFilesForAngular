@@ -1,6 +1,10 @@
+https://embed.plnkr.co/WvZtQ024vu2R816EMPQD/
 https://blog.angularindepth.com/angular-flex-layout-flexbox-and-grid-layout-for-angular-component-6e7c24457b63
 https://brianflove.com/2017/05/03/responsive-angular/
 http://www.dzurico.com/angular-flex-layout/
+https://stackblitz.com/edit/angular-flex-layout-seed?file=app%2Ftest.component.ts
+https://stackblitz.com/edit/responsive-menu-angular-material-flex-layout-u21ind?file=src%2Fapp%2Fapp.component.html
+
 
 
 
