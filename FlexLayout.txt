@@ -14,6 +14,7 @@ http://recurship.com/blog/responsive-layouts-with-angular/flex-layout
 https://github.com/nigeldkat/AngularMaterialNavBar/blob/master/src/app/navigation/header/header.component.html
 https://github.com/HaymakerJones/navbar-template/blob/master/src/app/mega-menu/mega-menu.component.html
 https://github.com/danghuynhdaty/AngularLoginWithoutNavbar/blob/master/src/app/header/header.component.html
+https://stackblitz.com/edit/responsive-menu-angular-material-flex-layout?file=src/app/app.component.html
 ---------------------------------------------------------------------------------------------------------------
 https://github.com/tkrotoff/flex-wrap-layout
 
