@@ -9,6 +9,7 @@ https://stackblitz.com/edit/angular-flex-layout-seed?file=app%2Ftest.component.t
 https://stackblitz.com/edit/responsive-menu-angular-material-flex-layout-u21ind?file=src%2Fapp%2Fapp.component.html
 http://recurship.com/blog/responsive-layouts-with-angular/flex-layout
 https://medium.com/letsboot/quick-start-with-angular-material-and-flex-layout-1b065aa1476c
+https://blog.vizuri.com/creating-your-own-angular-material-navigation-menu
 
 
 
