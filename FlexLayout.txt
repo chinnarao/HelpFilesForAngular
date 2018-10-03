@@ -1,4 +1,6 @@
 https://theinfogrid.com/tech/developers/angular/responsive-navbar-angular-flex-layout/
+https://stackblitz.com/edit/responsive-menu-angular-material-flex-layout?file=src/app/app.component.html
+---------------------------------------------------------------------------------------------------------
 https://embed.plnkr.co/WvZtQ024vu2R816EMPQD/
 https://blog.angularindepth.com/angular-flex-layout-flexbox-and-grid-layout-for-angular-component-6e7c24457b63
 https://brianflove.com/2017/05/03/responsive-angular/
@@ -14,7 +16,6 @@ http://recurship.com/blog/responsive-layouts-with-angular/flex-layout
 https://github.com/nigeldkat/AngularMaterialNavBar/blob/master/src/app/navigation/header/header.component.html
 https://github.com/HaymakerJones/navbar-template/blob/master/src/app/mega-menu/mega-menu.component.html
 https://github.com/danghuynhdaty/AngularLoginWithoutNavbar/blob/master/src/app/header/header.component.html
-https://stackblitz.com/edit/responsive-menu-angular-material-flex-layout?file=src/app/app.component.html
 ---------------------------------------------------------------------------------------------------------------
 https://github.com/tkrotoff/flex-wrap-layout
 
