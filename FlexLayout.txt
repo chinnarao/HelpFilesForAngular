@@ -19,6 +19,7 @@ https://blog.vizuri.com/creating-your-own-angular-material-navigation-menu
 https://github.com/nigeldkat/AngularMaterialNavBar/blob/master/src/app/navigation/header/header.component.html
 https://github.com/HaymakerJones/navbar-template/blob/master/src/app/mega-menu/mega-menu.component.html
 https://github.com/danghuynhdaty/AngularLoginWithoutNavbar/blob/master/src/app/header/header.component.html
+https://github.com/phamtr/flex-layout/blob/master/src/app/app.component.html
 ---------------------------------------------------------------------------------------------------------------
 https://github.com/tkrotoff/flex-wrap-layout
 
