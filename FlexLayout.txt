@@ -6,6 +6,8 @@ https://stackblitz.com/edit/angular-flex-layout-seed?file=app%2Ftest.component.t
 https://stackblitz.com/edit/responsive-menu-angular-material-flex-layout-u21ind?file=src%2Fapp%2Fapp.component.html
 http://recurship.com/blog/responsive-layouts-with-angular/flex-layout
 
+https://github.com/tkrotoff/flex-wrap-layout
+
 
 
 
