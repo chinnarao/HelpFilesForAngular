@@ -26,3 +26,15 @@ Authorization callback URL: https://scooppagesdev1.firebaseapp.com/__/auth/handl
 Client ID: 71e708d7c9262ea32f5e
 Client Secret: 1c1131de20d8ed987961e4e4a5445594da4c26c4
 ==========================================================
+ng serve --host 0.0.0.0 --port 4201
+============================================================
+when you upgrade  (https://www.npmjs.com/package/@angular/cli)
+step 1: download and install node.js
+step 2: npm i -g @angular/cli@latest
+step 3: prj Folder > npm i --save @angular/cli
+step 4: npm audit fix --force
+step 5: npm install
+step 5: npm rebuild node-sass
+step 6: ng update
+step 7: ng update @angular/core and ng update rxjs
+
