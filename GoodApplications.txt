@@ -1,2 +1,3 @@
 https://github.com/dalejodc/angular-vegetables
 https://github.com/loiane/angular-login-hide-navbar
+https://github.com/emonney/QuickApp
