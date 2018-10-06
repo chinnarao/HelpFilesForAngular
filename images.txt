@@ -1,1 +1,3 @@
 https://material.io/tools/icons/?style=outline
+
+icon names: find-in-page,help,add_comment,attach_money,insert_photo, move_vert, school, person, vpn_key, live_help, person_add, poll
