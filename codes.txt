@@ -6,3 +6,5 @@ module code: https://github.com/karbonn/angular2-searchbar/tree/master/src/app/s
 search bar types: https://colorlib.com/wp/free-css3-html5-search-form-examples/
 navbar: https://github.com/dockstore/dockstore-ui2/blob/develop/src/app/navbar/navbar.component.html
 navbar: https://github.com/gabrieleteotino/JobSearchLog/blob/master/src/app/nav/nav.component.html
+search results and searchbar: 
+https://github.com/Sarfarazsajjad/Angular-Material-UI-Search-Page-Style-1/blob/master/src/app/app.component.html
