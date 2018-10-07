@@ -7,3 +7,4 @@ https://github.com/zecollokaris/Github-API-Search--Update-Angular-cli-7
 https://github.com/arjungupta48/Angular6POC2
 https://github.com/gabrieleteotino/JobSearchLog
 https://github.com/gabrieleteotino/JobSearchLog
+https://github.com/yiqu/searchit
