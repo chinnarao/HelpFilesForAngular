@@ -1,3 +1,4 @@
 http service: https://github.com/jiwenjiang/angular4-material2/blob/master/src/app/service/http/http.service.ts
 alert service: https://github.com/jiwenjiang/angular4-material2/blob/master/src/app/service/noty/noty.service.ts
 shared module: https://github.com/jiwenjiang/angular4-material2/blob/master/src/app/shared/shared.module.ts
+search bar: https://codepen.io/AskYous/pen/WwZZgM
