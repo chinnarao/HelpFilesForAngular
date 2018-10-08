@@ -27,6 +27,7 @@ Client ID: 71e708d7c9262ea32f5e
 Client Secret: 1c1131de20d8ed987961e4e4a5445594da4c26c4
 ==========================================================
 ng serve --host 0.0.0.0 --port 4201
+ng serve --open
 ============================================================
 when you upgrade  (https://www.npmjs.com/package/@angular/cli)
 step 1: npm install npm@latest -g   &&    download and install node.js
