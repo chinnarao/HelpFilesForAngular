@@ -8,3 +8,4 @@ https://github.com/arjungupta48/Angular6POC2
 https://github.com/gabrieleteotino/JobSearchLog
 https://github.com/yiqu/searchit
 https://github.com/aymen7/ng-spotify-search-app
+https://github.com/Ismaestro/angular6-example-app
