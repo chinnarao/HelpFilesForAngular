@@ -53,7 +53,8 @@ NOTE: -d(dryrun) Run with "dry run" no changes were made.
 >ng g c ad/ad -m=ad/ad.module  ( will create directly app folder with ad folder and 4 files(.html,.ts,.spec.ts,.scss))
 >ng g c ad/ad-list    -m=ad/ad.module
 ng g c ad/ad-details  -m=ad/ad.module
->ng g c article/article -m=article/article.module
+>ng g c article/article         -m=article/article.module
+ng g c article/article-details  -m=article/article.module
 >ng g c article/article-list -m=article/article.module
 >ng g c page-not-found -m=app.module  (by default .scss created here, instead --style=scss)
 -it  (inline template) no html file will be generated
