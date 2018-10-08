@@ -44,6 +44,7 @@ typescript location: C:\Program Files (x86)\Microsoft SDKs\typescript\
 >npm install typescript@latest -g
 >tsc --version    [[[[ success in my machine]]]]]
 ===========================generate module==============================================
+https://www.sitepoint.com/ultimate-angular-cli-reference/
 ng g m ad -m=app.module -d
 NOTE: -d(dryrun) Run with "dry run" no changes were made.
 ======================================================================generate component=
