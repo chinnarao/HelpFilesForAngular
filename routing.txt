@@ -1,1 +1,2 @@
 https://angular-2-training-book.rangle.io/handout/routing/child_routes.html
+https://angular-2-training-book.rangle.io/handout/routing/routeparams.html
