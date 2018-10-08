@@ -43,3 +43,7 @@ typescript location: C:\Program Files (x86)\Microsoft SDKs\typescript\
 npm -g upgrade typescript
 npm install typescript@latest -g
 tsc --version    [[[[ success in my machine]]]]]
+===========================generate module==============================================
+ng g m ad -m=app.module -d
+NOTE: -d(dryrun) Run with "dry run" no changes were made.
+========================================================================================
