@@ -13,4 +13,5 @@ https://github.com/Sarfarazsajjad/Angular-Material-UI-Search-Page-Style-1/blob/m
 carousel: https://github.com/yiqu/searchit
 error handler: https://embed.plnkr.co/HhYYHnqAOHzFAvKc7o58/
 error handler: https://itnext.io/how-to-handle-your-run-time-errors-in-your-angular-application-8d72fefbf8a4
+error handler: http://plnkr.co/edit/MaiM6T1COr2ppB2AMANx?p=info
 
