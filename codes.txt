@@ -11,4 +11,5 @@ navbar: https://github.com/gabrieleteotino/JobSearchLog/blob/master/src/app/nav/
 search results and searchbar: 
 https://github.com/Sarfarazsajjad/Angular-Material-UI-Search-Page-Style-1/blob/master/src/app/app.component.html
 carousel: https://github.com/yiqu/searchit
+error handler: https://embed.plnkr.co/HhYYHnqAOHzFAvKc7o58/
 
