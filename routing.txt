@@ -1,5 +1,10 @@
 https://angular-2-training-book.rangle.io/handout/routing/child_routes.html
 https://angular-2-training-book.rangle.io/handout/routing/routeparams.html
-
 https://itnext.io/child-routes-with-respective-components-in-angular-4-36f1be42278e
 https://medium.com/@astamataris/setting-up-routing-in-a-multi-module-angular-4-app-using-the-router-module-d8e610196443
+https://codeburst.io/how-to-implement-lazy-loading-in-angular-6-419491102591
+https://angularfirebase.com/lessons/how-to-lazy-load-components-in-angular-4-in-three-steps/
+
+
+
+Routing with loading icon: https://www.bennadel.com/blog/3506-preloading-lazy-loaded-feature-modules-in-angular-6-1-9.htm
