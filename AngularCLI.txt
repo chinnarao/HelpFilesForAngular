@@ -50,12 +50,18 @@ ng g m ad -m=app.module --routing
 ng g m article -m=app.module --routing
 NOTE: -d(dryrun) Run with "dry run" no changes were made.
 ===========================generate component===========================================
->ng g c ad/ad -m=ad/ad.module  ( will create directly app folder with ad folder and 4 files(.html,.ts,.spec.ts,.scss))
->ng g c ad/ad-list    -m=ad/ad.module
-ng g c ad/ad-details  -m=ad/ad.module
->ng g c article/article         -m=article/article.module
-ng g c article/article-details  -m=article/article.module
->ng g c article/article-list -m=article/article.module
+> ng g c ad/ad-create -m=ad/ad.module
+> ng g c ad/ad-read   -m=ad/ad.module
+> ng g c ad/ad-update -m=ad/ad.module
+> ng g c ad/ad-delete -m=ad/ad.module
+
+> ng g c article/article-create -m=article/article.module
+> ng g c article/article-read   -m=article/article.module
+> ng g c article/article-update -m=article/article.module
+> ng g c article/article-delete -m=article/article.module
+
 >ng g c page-not-found -m=app.module  (by default .scss created here, instead --style=scss)
 -it  (inline template) no html file will be generated
 -is  (inline style) no css file will be generated
+
+---------------------------------------------------------
