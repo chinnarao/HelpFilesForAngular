@@ -41,4 +41,5 @@ Google translate: https://www.oodlestechnologies.com/blogs/How-To-Implement-Goog
 https://www.w3schools.com/howto/tryit.asp?filename=tryhow_google_translate_dropdown
 https://nationbuilder.com/google_translate_widget
 https://www.c-sharpcorner.com/UploadFile/29d7e0/translate-your-web-site-using-bing-translator-widget/
+https://support.jimdo.com/faq/how-to-add-google-translate-to-your-website/
 ----------------------------------------------------------------------------------------------------------------------------
