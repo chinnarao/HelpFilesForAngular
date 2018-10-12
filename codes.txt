@@ -33,3 +33,11 @@ https://stackblitz.com/edit/ng-zorro-antd-setup-1jw6mk
 
 
 404 idea: https://preview.pro.ant.design/exception/404
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+Google translate: https://www.oodlestechnologies.com/blogs/How-To-Implement-Google-Translator-In-Angular-Application
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_google_translate_dropdown
+
+----------------------------------------------------------------------------------------------------------------------------
