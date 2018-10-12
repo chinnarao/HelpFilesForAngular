@@ -23,5 +23,13 @@ error handler: http://plnkr.co/edit/MaiM6T1COr2ppB2AMANx
 
 languages dropdown: https://github.com/azachar/angular-language-picker
 countries dropdown: https://github.com/guillaume-ro-fr/ngx-country-picker
+country flag icons css: http://flag-icon-css.lip.is/?continent=Asia
+
+=========================================================================
+Components: NG-ZORRO :   https://github.com/NG-ZORRO/ng-zorro-antd
+paging 5* : NG-ZORRO   :  http://ng.ant.design/components/pagination/en
+https://stackblitz.com/edit/ng-zorro-antd-setup-1jw6mk
+=========================================================================
 
 
+404 idea: https://preview.pro.ant.design/exception/404
