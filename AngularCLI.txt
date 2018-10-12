@@ -68,3 +68,9 @@ ng g c auth/register -m=auth/auth.module
 -is  (inline style) no css file will be generated
 
 ---------------------------------------------------------
+ng g m shared -m=app.module
+ng g c shared/components/header       -m=shared/shared.module
+ng g c shared/components/footer       -m=shared/shared.module
+ng g c shared/components/search-bar   -m=shared/shared.module
+ng g c shared/components/home         -m=shared/shared.module
+ng g c shared/components/spinner      -m=shared/shared.module
