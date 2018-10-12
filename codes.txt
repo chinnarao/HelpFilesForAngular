@@ -44,6 +44,7 @@ https://www.c-sharpcorner.com/UploadFile/29d7e0/translate-your-web-site-using-bi
 https://support.jimdo.com/faq/how-to-add-google-translate-to-your-website/
 https://github.com/freelancer-nishant/Angular5/blob/master/src/app/translate-component.ts
 https://github.com/sv0505/sm/blob/1161a43350c7f1639231f55b571492ef3b63fa16/src/index.html
+https://github.com/googlearchive/dev-video-search/blob/d6d61847aa686d6adc82289e8ec5b77f9356119d/src/app/t/index.html
 https://github.com/search?utf8=%E2%9C%93&q=google_translate_element+path%3A%2Fsrc%2Fapp%2F&type=Code&ref=advsearch&l=&l=
 
  https://translate.google.com/manager/website/   =====>>>>>
