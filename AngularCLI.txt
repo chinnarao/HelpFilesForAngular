@@ -60,6 +60,9 @@ NOTE: -d(dryrun) Run with "dry run" no changes were made.
 > ng g c article/article-update -m=article/article.module
 > ng g c article/article-delete -m=article/article.module
 
+ng g c auth/log-in   -m=auth/auth.module
+ng g c auth/register -m=auth/auth.module
+
 >ng g c page-not-found -m=app.module  (by default .scss created here, instead --style=scss)
 -it  (inline template) no html file will be generated
 -is  (inline style) no css file will be generated
