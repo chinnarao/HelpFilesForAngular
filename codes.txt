@@ -42,6 +42,8 @@ https://www.w3schools.com/howto/tryit.asp?filename=tryhow_google_translate_dropd
 https://nationbuilder.com/google_translate_widget
 https://www.c-sharpcorner.com/UploadFile/29d7e0/translate-your-web-site-using-bing-translator-widget/
 https://support.jimdo.com/faq/how-to-add-google-translate-to-your-website/
+https://github.com/freelancer-nishant/Angular5/blob/master/src/app/translate-component.ts
+https://github.com/search?utf8=%E2%9C%93&q=google_translate_element+path%3A%2Fsrc%2Fapp%2F&type=Code&ref=advsearch&l=&l=
 
  https://translate.google.com/manager/website/   =====>>>>>
 
