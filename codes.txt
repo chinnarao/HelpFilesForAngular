@@ -71,6 +71,7 @@ AngularFireModule.initializeApp({
       messagingSenderId: "346526681784",
     }),
     https://github.com/pablomarrero/tax2
+    https://github.com/apeman86/single_page_app/blob/425c597985b99f5850048165ff5ca833fead976e/src/app/app.component.ts
     
  ------------------------------------------
  if else : https://toddmotto.com/angular-ngif-else-then
