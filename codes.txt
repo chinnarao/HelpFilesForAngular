@@ -76,3 +76,5 @@ AngularFireModule.initializeApp({
  if else : https://toddmotto.com/angular-ngif-else-then
  -----------------------------------------
  sentry error handler: https://github.com/MuizNadeem/pwa/blob/74820b17b25d06e9353a2b4a1f00ee18cc6fca98/src/app/app.module.ts
+ ---------------------------------------------
+ local storage : https://github.com/eyalkenig/meizam/blob/5fc32e9663b444029275c551cf100a9ffe7c8d70/src/app/services/local-storage.service.ts
