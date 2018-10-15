@@ -33,8 +33,10 @@ https://stackblitz.com/edit/ng-zorro-antd-setup-1jw6mk
 
 
 404 idea: https://preview.pro.ant.design/exception/404
-
-
+----------------------
+setTimeout(() => {
+      this.router.navigate(['/login']);
+    }, 3000);
 
 ----------------------------------------------------------------------------------------------------------------------------
 Google translate: 
