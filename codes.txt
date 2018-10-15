@@ -70,7 +70,7 @@ AngularFireModule.initializeApp({
       storageBucket: "lecoursville.appspot.com",
       messagingSenderId: "346526681784",
     }),
-    
+    https://github.com/pablomarrero/tax2
     
  ------------------------------------------
  if else : https://toddmotto.com/angular-ngif-else-then
