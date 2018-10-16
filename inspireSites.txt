@@ -5,7 +5,10 @@ free prints 60 4x6: https://www.snapfish.com
 home page search idea: https://www.wayn.com/
 stepper: https://akveo.github.io/nebular/docs/components/stepper/overview#nbstepcomponent
 menu : https://dictionary.cambridge.org/us/dictionary/english/murky
+------------------------------------------------------------------------------------------
 google login: https://google-api-firebase.herokuapp.com/#/
+https://github.com/vanderlin/google-api-firebase-boilerplate
+------------------------------------------------------------------------------------------
 
 
 
