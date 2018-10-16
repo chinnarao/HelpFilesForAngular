@@ -82,3 +82,6 @@ AngularFireModule.initializeApp({
  sentry error handler: https://github.com/MuizNadeem/pwa/blob/74820b17b25d06e9353a2b4a1f00ee18cc6fca98/src/app/app.module.ts
  ---------------------------------------------
  local storage : https://github.com/eyalkenig/meizam/blob/5fc32e9663b444029275c551cf100a9ffe7c8d70/src/app/services/local-storage.service.ts
+ 
+ ---------------------------------------------------------------------------------------------------------------------------
+ firebase gaurd activat : https://github.com/ajjnorton/inhaus/blob/f51f7bff546cb588fb0ee43481787d03c2a70d9c/src/app/shared/auth.guard.ts
