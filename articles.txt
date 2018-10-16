@@ -1,0 +1,2 @@
+firebase : https://medium.com/@vanderlin/google-api-firebase-auth-1b18416b4e74
+firebase : https://medium.com/google-cloud/using-google-apis-with-firebase-auth-and-firebase-ui-on-the-web-46e6189cf571
