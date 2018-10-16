@@ -85,3 +85,5 @@ AngularFireModule.initializeApp({
  
  ---------------------------------------------------------------------------------------------------------------------------
  firebase gaurd activat : https://github.com/ajjnorton/inhaus/blob/f51f7bff546cb588fb0ee43481787d03c2a70d9c/src/app/shared/auth.guard.ts
+ -----------------------
+ interface typescript: https://github.com/ajjnorton/inhaus/blob/master/src/app/store/store.ts
