@@ -1,3 +1,3 @@
 firebase : https://medium.com/@vanderlin/google-api-firebase-auth-1b18416b4e74
-firebase : https://medium.com/google-cloud/using-google-apis-with-firebase-auth-and-firebase-ui-on-the-web-46e6189cf571
+*firebase refresh token : https://medium.com/google-cloud/using-google-apis-with-firebase-auth-and-firebase-ui-on-the-web-46e6189cf571
 firebase : https://kenoleon.github.io/Front-End-Web-Dev-UI-UX/firebase-user-authentication
