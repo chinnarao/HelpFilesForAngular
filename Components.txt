@@ -2,3 +2,5 @@ https://github.com/tommueller/ng-mat-icon-bar
 https://www.npmjs.com/package/ng-mat-search-bar
 
 https://github.com/Gbuomprisco/ngx-chips
+
+https://sherweb.github.io/ngx-materialize/home
