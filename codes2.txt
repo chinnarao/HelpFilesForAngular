@@ -6,4 +6,11 @@ script.onload = (e) => {
 }
 // bind this to your single page app...
 document.getElementsByTagName('head')[0].appendChild(script);
+=======================================send email from google api=============================
+const aa: string = UtilsService.getBaseUrl();
+    if (ev.authResult.additionalUserInfo.isNewUser && !ev.authResult.user.emailVerified) {
+      ev.authResult.user.sendEmailVerification({
+        url: `${UtilsService.getBaseUrl()}/profile`
+      });
+    }
 ====================================================================
