@@ -4,7 +4,7 @@ about page: https://the-dots.com/
 free prints 60 4x6: https://www.snapfish.com
 home page search idea: https://www.wayn.com/
 stepper: https://akveo.github.io/nebular/docs/components/stepper/overview#nbstepcomponent
-
+menu : https://dictionary.cambridge.org/us/dictionary/english/murky
 
 
 
