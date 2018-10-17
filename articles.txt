@@ -4,3 +4,5 @@ firebase : https://kenoleon.github.io/Front-End-Web-Dev-UI-UX/firebase-user-auth
 firebase ui: https://www.npmjs.com/package/firebaseui
 
 angular life cycle: https://medium.com/@zizzamia/the-secret-life-cycle-of-components-ee180a9a42bb
+
+http and aspnet core: https://offering.solutions/blog/articles/2016/02/01/consuming-a-rest-api-with-angular-http-service-in-typescript/
