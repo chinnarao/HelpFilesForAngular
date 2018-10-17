@@ -14,3 +14,4 @@ const aa: string = UtilsService.getBaseUrl();
       });
     }
 ====================================================================
+mime types: https://github.com/marlon360/mime-types/blob/master/test/test.js
