@@ -8,3 +8,4 @@ angular life cycle: https://medium.com/@zizzamia/the-secret-life-cycle-of-compon
 http and aspnet core: https://offering.solutions/blog/articles/2016/02/01/consuming-a-rest-api-with-angular-http-service-in-typescript/
 
 *Observable: https://grokonez.com/frontend/angular/angular-6/angular-6-service-with-observable-data-for-asynchronous-operation
+data transfer any comp to any comp: http://jasonwatmore.com/post/2018/06/25/angular-6-communicating-between-components-with-observable-subject
