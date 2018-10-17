@@ -21,3 +21,5 @@ sample static site full code: https://github.com/SarveshDeshmukh/SarveshDeshmukh
 
 firebase: https://github.com/ajjnorton/inhaus
 firebase: https://github.com/l7960261/questionnaire
+
+*configuration-service : https://github.com/rfreedman/angular-configuration-service
