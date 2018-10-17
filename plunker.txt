@@ -1,0 +1,2 @@
+promise: http://next.plnkr.co/edit/vL76b0UjrAav3Ao7kF4W?p=preview&preview
+shared service: http://next.plnkr.co/edit/2s0PaKBVTCzI5iBvZylU?p=preview&utm_source=legacy&utm_medium=worker&utm_campaign=next&preview
