@@ -6,3 +6,5 @@ firebase ui: https://www.npmjs.com/package/firebaseui
 angular life cycle: https://medium.com/@zizzamia/the-secret-life-cycle-of-components-ee180a9a42bb
 
 http and aspnet core: https://offering.solutions/blog/articles/2016/02/01/consuming-a-rest-api-with-angular-http-service-in-typescript/
+
+*Observable: https://grokonez.com/frontend/angular/angular-6/angular-6-service-with-observable-data-for-asynchronous-operation
