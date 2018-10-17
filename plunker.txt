@@ -1,3 +1,5 @@
-promise: http://next.plnkr.co/edit/vL76b0UjrAav3Ao7kF4W?p=preview&preview
+shared service: http://next.plnkr.co/edit/vL76b0UjrAav3Ao7kF4W?p=preview&preview
 shared service: http://next.plnkr.co/edit/2s0PaKBVTCzI5iBvZylU?p=preview&utm_source=legacy&utm_medium=worker&utm_campaign=next&preview
 share service: http://www.learnangularjs.net/global-data-sharing-in-angular-4.php
+share service: https://www.quora.com/What-is-the-best-way-to-share-data-between-components-in-Angular-2
+==========================================================================================================================================
