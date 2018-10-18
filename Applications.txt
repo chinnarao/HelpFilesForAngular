@@ -16,6 +16,7 @@ https://github.com/maheshnadar/EPS
 4.5*: https://github.com/fab37100/ng6-pokemon-app
 4.5*: https://github.com/akveo/ngx-admin
 5*: https://github.com/Ismaestro/angular6-example-app
+5* firebase: https://github.com/designcourse/angular-auth-demo
 
 
 sample static site full code: https://github.com/SarveshDeshmukh/SarveshDeshmukh.github.io
