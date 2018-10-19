@@ -1,1 +1,3 @@
 http: https://github.com/Hacklone/angular-cool/tree/master/projects/http
+Global-errorhandler-angular: https://github.com/ralscha/blog/tree/master/ngerrorhandler
+angular2-jsonapi: https://github.com/ghidoz/angular2-jsonapi
