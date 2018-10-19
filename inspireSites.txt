@@ -9,8 +9,10 @@ menu : https://dictionary.cambridge.org/us/dictionary/english/murky
 google login: https://google-api-firebase.herokuapp.com/#/
 https://github.com/vanderlin/google-api-firebase-boilerplate
 ------------------------------------------------------------------------------------------
-
-
+$5: https://errorception.com/pricing
+error log : open source: https://github.com/FancyGrid/FancyTrack
+$12: https://www.errlog.io/pricing
+$7: http://jslogger.com/pricing
 
 
 
