@@ -1,1 +1,31 @@
-
+typescript location: C:\Program Files (x86)\Microsoft SDKs\typescript\
+npm -g upgrade typescript
+npm install typescript@latest -g
+tsc --version    [[[[ success in my machine]]]]]
+===========================generate module==============================================
+https://www.sitepoint.com/ultimate-angular-cli-reference/
+ng g m ad -m=app.module --routing
+ng g m article -m=app.module --routing
+NOTE: -d(dryrun) Run with "dry run" no changes were made.
+===========================generate component===========================================
+ng g c ad/ad-create -m=ad/ad.module
+ng g c ad/ad-read   -m=ad/ad.module
+ng g c ad/ad-update -m=ad/ad.module
+ng g c ad/ad-delete -m=ad/ad.module
+ng g c article/article-create -m=article/article.module
+ng g c article/article-read   -m=article/article.module
+ng g c article/article-update -m=article/article.module
+ng g c article/article-delete -m=article/article.module
+ng g c auth/log-in   -m=auth/auth.module
+ng g c auth/register -m=auth/auth.module
+ng g c page-not-found -m=app.module  (by default .scss created here, instead --style=scss)
+-it  (inline template) no html file will be generated
+-is  (inline style) no css file will be generated
+---------------------------------------------------------
+ng g m shared -m=app.module
+ng g c shared/components/header       -m=shared/shared.module
+ng g c shared/components/footer       -m=shared/shared.module
+ng g c shared/components/search-bar   -m=shared/shared.module
+ng g c shared/components/home         -m=shared/shared.module
+ng g c shared/components/spinner      -m=shared/shared.module
+---------------------------------------------------------------------------------------------------------
