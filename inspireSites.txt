@@ -17,6 +17,8 @@ $7: http://jslogger.com/pricing
 https://golb.hplar.ch/
 full code: angular: 
 error handler: stacktrace.js: https://github.com/ralscha/blog/tree/master/ngerrorhandler
+https://golb.hplar.ch/2018/10/global-errorhandler-angular.html
+Using Dexie.js in a TypeScript application : https://golb.hplar.ch/2018/01/Using-Dexie-js-in-a-TypeScript-application.html
 -----------------------------------------------------------------------------------------------------
 
 
