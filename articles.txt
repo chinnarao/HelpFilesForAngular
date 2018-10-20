@@ -13,3 +13,4 @@ data transfer any comp to any comp: http://jasonwatmore.com/post/2018/06/25/angu
 Compile-time vs. Runtime configuration of your Angular App:
 https://juristr.com/blog/2018/01/ng-app-runtime-config/
 --------------------------------
+APP_INITIALIZER: https://juristr.com/blog/2018/01/ng-app-runtime-config/
