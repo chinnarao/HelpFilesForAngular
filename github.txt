@@ -3,3 +3,4 @@ Global-errorhandler-angular: https://github.com/ralscha/blog/tree/master/ngerror
 angular2-jsonapi: https://github.com/ghidoz/angular2-jsonapi
 first prize project(5 members): https://github.com/ghidoz/hackmentor
 form utils: https://github.com/ghidoz/angular2-form-utils
+ngx-http-client: https://github.com/tiangolo/ngx-http-client
