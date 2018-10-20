@@ -9,3 +9,7 @@ http and aspnet core: https://offering.solutions/blog/articles/2016/02/01/consum
 
 *Observable: https://grokonez.com/frontend/angular/angular-6/angular-6-service-with-observable-data-for-asynchronous-operation
 data transfer any comp to any comp: http://jasonwatmore.com/post/2018/06/25/angular-6-communicating-between-components-with-observable-subject
+-----------------------------
+Compile-time vs. Runtime configuration of your Angular App:
+https://juristr.com/blog/2018/01/ng-app-runtime-config/
+--------------------------------
