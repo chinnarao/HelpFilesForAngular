@@ -8,4 +8,5 @@ https://www.npmjs.com/package/angular-http-interceptor
 https://www.npmjs.com/package/ng-http-interceptor
 https://github.com/serhiisol/ngx-auth
 https://github.com/mpalourdio/ng-http-loader
+ngx-http-loader: https://github.com/lmrnba6/ekrini-parking-web
 
