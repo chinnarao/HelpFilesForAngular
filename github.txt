@@ -14,3 +14,5 @@ carousel: https://github.com/MichielBlueBot/michielrbe/tree/1fef6c85322dc56fb52f
 
 network detection: https://github.com/alanjosephk/bow/tree/cbb2d7bd7fa97dfd8c023064bfe9322e14ac461d/src/app/core/components/network-detection
 
+interceptors: https://github.com/alanjosephk/bow/tree/cbb2d7bd7fa97dfd8c023064bfe9322e14ac461d/src/app/core/interceptors
+
