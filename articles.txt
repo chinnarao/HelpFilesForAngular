@@ -18,4 +18,7 @@ APP_INITIALIZER: https://juristr.com/blog/2018/01/ng-app-runtime-config/
 firebase token: https://firebase.google.com/docs/auth/admin/verify-id-tokens
 token: aspnet web api : https://dzone.com/articles/token-based-authentication-in-angular-6-with-web-a
 
-generic http: https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/
+generic http: 
+1. https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/
+2. https://medium.com/@krishna.acondy/a-generic-http-service-approach-for-angular-applications-a7bd8ff6a068
+3. https://www.metaltoad.com/blog/angular-5-making-api-calls-httpclient-service
