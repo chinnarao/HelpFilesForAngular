@@ -22,3 +22,5 @@ generic http:
 1. https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/
 2. https://medium.com/@krishna.acondy/a-generic-http-service-approach-for-angular-applications-a7bd8ff6a068
 3. https://www.metaltoad.com/blog/angular-5-making-api-calls-httpclient-service
+
+json-api server: https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/
