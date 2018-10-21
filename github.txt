@@ -19,4 +19,5 @@ interceptors: https://github.com/alanjosephk/bow/tree/cbb2d7bd7fa97dfd8c023064bf
 progress bar: https://github.com/MurhafSousli/ngx-progressbar
 
 10* article editor: https://github.com/jfcere/ngx-markdown
+http: https://github.com/Alveo/alveo-transcriber/blob/1353f3fc213f2b58da3248772accf2e92656b708/src/app/alveo-transserv-client/alveo-transserv-client.service.ts
 
