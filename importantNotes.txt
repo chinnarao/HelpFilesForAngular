@@ -1,3 +1,5 @@
 1. package.json: Ngx-Logger: install, npm, ngx-logger.
 2. package.json: "stacktrace-js": "^2.0.0": "dexie": "^2.0.4": environment: serverURL: npm install --save stacktrace-js,npm install --save dexie, whole error folder
-3. 
+3. c# class to json schema : http://csharp2json.io/
+4. json to typescript : https://app.quicktype.io/
+5. json random data: https://next.json-generator.com/
