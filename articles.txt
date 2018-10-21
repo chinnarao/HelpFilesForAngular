@@ -16,3 +16,4 @@ https://juristr.com/blog/2018/01/ng-app-runtime-config/
 APP_INITIALIZER: https://juristr.com/blog/2018/01/ng-app-runtime-config/
 
 firebase token: https://firebase.google.com/docs/auth/admin/verify-id-tokens
+token: aspnet web api : https://dzone.com/articles/token-based-authentication-in-angular-6-with-web-a
