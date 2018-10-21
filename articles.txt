@@ -24,3 +24,5 @@ generic http:
 3. https://www.metaltoad.com/blog/angular-5-making-api-calls-httpclient-service
 
 json-api server: https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/
+
+https://www.techiediaries.com/angular-http-client/
