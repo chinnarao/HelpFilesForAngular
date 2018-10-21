@@ -26,3 +26,6 @@ above related article: https://theinfogrid.com/tech/developers/angular/attaching
 ------------------------------------------------------------------------------------------------------------------
 generic http: https://github.com/chevpotenko/app-eshop-angular/blob/develop/src/app/services/data/data.service.ts
 
+----------------------------------------------------------------------------------------------------------------------
+editor : https://github.com/chymz/ng2-ckeditor#readme
+
