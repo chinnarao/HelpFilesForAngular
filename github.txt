@@ -16,3 +16,7 @@ network detection: https://github.com/alanjosephk/bow/tree/cbb2d7bd7fa97dfd8c023
 
 interceptors: https://github.com/alanjosephk/bow/tree/cbb2d7bd7fa97dfd8c023064bfe9322e14ac461d/src/app/core/interceptors
 
+progress bar: https://github.com/MurhafSousli/ngx-progressbar
+
+10* article editor: https://github.com/jfcere/ngx-markdown
+
