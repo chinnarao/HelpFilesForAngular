@@ -1,0 +1,1 @@
+https://github.com/ngx-rocket/generator-ngx-rocket
