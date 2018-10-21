@@ -14,3 +14,5 @@ Compile-time vs. Runtime configuration of your Angular App:
 https://juristr.com/blog/2018/01/ng-app-runtime-config/
 --------------------------------
 APP_INITIALIZER: https://juristr.com/blog/2018/01/ng-app-runtime-config/
+
+firebase token: https://firebase.google.com/docs/auth/admin/verify-id-tokens
