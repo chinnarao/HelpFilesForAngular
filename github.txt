@@ -24,4 +24,5 @@ http: https://github.com/Alveo/alveo-transcriber/blob/1353f3fc213f2b58da3248772a
 token: angular2-jwt : https://github.com/auth0/angular2-jwt
 above related article: https://theinfogrid.com/tech/developers/angular/attaching-authorization-token-angular-6/
 ------------------------------------------------------------------------------------------------------------------
+generic http: https://github.com/chevpotenko/app-eshop-angular/blob/develop/src/app/services/data/data.service.ts
 
