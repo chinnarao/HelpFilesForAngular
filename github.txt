@@ -12,3 +12,5 @@ ngx-http-loader: https://github.com/lmrnba6/ekrini-parking-web
 
 carousel: https://github.com/MichielBlueBot/michielrbe/tree/1fef6c85322dc56fb52f4dcf6b8acf55bc65791e/frontend/src/app/carousel
 
+network detection: https://github.com/alanjosephk/bow/tree/cbb2d7bd7fa97dfd8c023064bfe9322e14ac461d/src/app/core/components/network-detection
+
