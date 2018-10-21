@@ -4,3 +4,4 @@
 4. json to typescript : https://app.quicktype.io/
 5. json random data: https://next.json-generator.com/
 6. **json random data: http://jsongen.pykaso.net/
+7. any image: http://placehold.it/16x16
