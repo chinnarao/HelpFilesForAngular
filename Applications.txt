@@ -5,7 +5,7 @@ https://github.com/victurianus19/angular-youtube-search
 https://github.com/salman240/Github-Search
 https://github.com/zecollokaris/Github-API-Search--Update-Angular-cli-7
 https://github.com/arjungupta48/Angular6POC2
-https://github.com/gabrieleteotino/JobSearchLog
+*_* https://github.com/gabrieleteotino/JobSearchLog
 https://github.com/yiqu/searchit
 https://github.com/aymen7/ng-spotify-search-app
 https://github.com/Ismaestro/angular6-example-app
@@ -26,3 +26,5 @@ firebase: https://github.com/l7960261/questionnaire
 
 *configuration-service : https://github.com/rfreedman/angular-configuration-service
 https://www.intertech.com/Blog/angular-4-tutorial-run-code-during-app-initialization/
+
+https://github.com/ArtemYazynin/es3
