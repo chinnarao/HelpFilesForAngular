@@ -1,1 +1,2 @@
 https://visualstudiomagazine.com/articles/2016/01/01/exploiting-typescript-arrays.aspx
+typescript basic types: https://www.typescriptlang.org/docs/handbook/basic-types.html
