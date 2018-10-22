@@ -29,3 +29,5 @@ generic http: https://github.com/chevpotenko/app-eshop-angular/blob/develop/src/
 ----------------------------------------------------------------------------------------------------------------------
 editor : https://github.com/chymz/ng2-ckeditor#readme
 
+deborah kurata ngrx: https://github.com/DeborahK/Angular-NgRx-GettingStarted/blob/master/APM-Demo5/src/app/products/product.service.ts
+
