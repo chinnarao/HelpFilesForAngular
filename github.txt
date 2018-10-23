@@ -30,3 +30,6 @@ editor : https://github.com/chymz/ng2-ckeditor#readme
 
 deborah kurata ngrx: https://github.com/DeborahK/Angular-NgRx-GettingStarted/blob/master/APM-Demo5/src/app/products/product.service.ts
 
+maps:
+1. https://github.com/bruckwubete/tibeb.front/blob/d56db329b8906d95bf1c89d0e4b937d99130ec16/src/app/pages/maps/maps.module.ts
+
