@@ -29,6 +29,7 @@ generic http:
 8. http://niceprogrammer.com/2018/03/19/angular-4-httpclient-mapping-using-decorators/
 9. https://www.devglan.com/angular/angular-6-example
 10. 10* generic error:  https://sebastian-holstein.de/post/error-handling-angular-async-pipe/
+11. https://blog.angularindepth.com/insiders-guide-into-interceptors-and-httpclient-mechanics-in-angular-103fbdb397bf
 
 json-api server: https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/
 
