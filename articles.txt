@@ -25,6 +25,7 @@ generic http:
 4. https://medium.com/netscape/the-better-way-to-write-api-service-in-angular-4-c9178ecf7f48
 5. *https://www.concretepage.com/angular/angular-httpclient-post
 6. https://www.techiediaries.com/angular-http-client/
+7. **https://blog.angular-university.io/angular-http/
 
 json-api server: https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/
 
