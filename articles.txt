@@ -25,10 +25,10 @@ generic http:
 4. https://medium.com/netscape/the-better-way-to-write-api-service-in-angular-4-c9178ecf7f48
 5. *https://www.concretepage.com/angular/angular-httpclient-post
 6. https://www.techiediaries.com/angular-http-client/
-7. **https://blog.angular-university.io/angular-http/
+7. https://blog.angular-university.io/angular-http/
 8. http://niceprogrammer.com/2018/03/19/angular-4-httpclient-mapping-using-decorators/
 9. https://www.devglan.com/angular/angular-6-example
-10. generic error:  https://sebastian-holstein.de/post/error-handling-angular-async-pipe/
+10. 10* generic error:  https://sebastian-holstein.de/post/error-handling-angular-async-pipe/
 
 json-api server: https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/
 
