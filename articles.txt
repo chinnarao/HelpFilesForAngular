@@ -34,3 +34,5 @@ json-api server: https://www.sitepoint.com/angular-rxjs-create-api-service-rest-
 
 https://www.techiediaries.com/angular-http-client/
 
+image + bearer : https://blog.strongbrew.io/safe-image-requests-in-angular/
+
