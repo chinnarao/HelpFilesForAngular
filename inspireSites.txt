@@ -20,7 +20,9 @@ error handler: stacktrace.js: https://github.com/ralscha/blog/tree/master/ngerro
 https://golb.hplar.ch/2018/10/global-errorhandler-angular.html
 Using Dexie.js in a TypeScript application : https://golb.hplar.ch/2018/01/Using-Dexie-js-in-a-TypeScript-application.html
 -----------------------------------------------------------------------------------------------------
-
+great site: header and generic services.
+http://www.soaringroad.com/home
+https://github.com/wangzhenhui1992
 
 
 
