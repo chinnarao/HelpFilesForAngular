@@ -24,6 +24,7 @@ token: angular2-jwt : https://github.com/auth0/angular2-jwt
 above related article: https://theinfogrid.com/tech/developers/angular/attaching-authorization-token-angular-6/
 ------------------------------------------------------------------------------------------------------------------
 generic http: https://github.com/chevpotenko/app-eshop-angular/blob/develop/src/app/services/data/data.service.ts
+generic : https://github.com/barkatmulani/SupplyChain/blob/de3b2042de208c03af2e39219eb8f0722b7b33ee/src/app/services/api.service.ts
 
 ----------------------------------------------------------------------------------------------------------------------
 editor : https://github.com/chymz/ng2-ckeditor#readme
