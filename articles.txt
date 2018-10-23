@@ -26,7 +26,9 @@ generic http:
 5. *https://www.concretepage.com/angular/angular-httpclient-post
 6. https://www.techiediaries.com/angular-http-client/
 7. **https://blog.angular-university.io/angular-http/
+8. http://niceprogrammer.com/2018/03/19/angular-4-httpclient-mapping-using-decorators/
 
 json-api server: https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/
 
 https://www.techiediaries.com/angular-http-client/
+
