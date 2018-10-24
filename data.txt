@@ -13,3 +13,6 @@ public products: Product[] = [
     new AdModel('1', 'car'), 
     new AdModel('2', 'bus')
   ];
+  
+  just mock url for testing with configure time wait in the url itself:
+  https://www.mocky.io/v2/5ab2663b2e00003d044cc144?mocky-delay=5000ms
