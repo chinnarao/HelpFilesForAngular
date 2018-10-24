@@ -2,3 +2,4 @@ https://github.com/sergeitemkin/FirebaseAuthWebApiSample
 https://github.com/ahlechandre/mdl-stepper
 https://github.com/KeitaElric/ngx-stepper
 https://www.nuget.org/packages/AspNetCore.Firebase.Authentication/
+https://bitbucket.org/RAPHAEL_BICKEL/aspnetcore.firebase.authentication
