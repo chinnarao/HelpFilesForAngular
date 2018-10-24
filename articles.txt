@@ -37,5 +37,7 @@ https://www.techiediaries.com/angular-http-client/
 
 image + bearer : https://blog.strongbrew.io/safe-image-requests-in-angular/
 
+http error interceptor loading: https://medium.com/@johnmeguira/intercept-all-http-calls-with-angular-5-to-display-a-loader-281924b73ad8
+
 
 
