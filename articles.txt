@@ -39,5 +39,6 @@ image + bearer : https://blog.strongbrew.io/safe-image-requests-in-angular/
 
 http error interceptor loading: https://medium.com/@johnmeguira/intercept-all-http-calls-with-angular-5-to-display-a-loader-281924b73ad8
 
+laptop to host server: https://blog.mindorks.com/how-to-convert-your-laptop-desktop-into-a-server-and-host-internet-accessible-website-on-it-part-2-cdb4b3633fa9
 
 
