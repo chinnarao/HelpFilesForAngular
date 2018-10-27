@@ -49,3 +49,11 @@ const httpOptions = {
           console.log(err);
         }
       );
+      
+      { id: 1, name: 'bar' }
+      books = [
+    { id: 1, name: 'Core Java' },
+    { id: 2, name: 'Angular 2' },
+    { id: 3, name: 'Hibernate' }
+  ];
+  JSON.stringify({ id: 1, name: 'bar' })   // success
