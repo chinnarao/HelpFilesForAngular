@@ -1,3 +1,4 @@
+https://github.com/shakenovdev/Angular-ASP.NetCoreWebAPI-MySQL-CRUD-project/blob/master/WebApi/ClientApp/src/app/core/services/comment.service.ts
 https://github.com/sergeitemkin/FirebaseAuthWebApiSample
 https://github.com/ahlechandre/mdl-stepper
 https://github.com/KeitaElric/ngx-stepper
