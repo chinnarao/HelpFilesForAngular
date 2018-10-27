@@ -24,3 +24,28 @@ base component style: https://github.com/pjefika/AngularProjectUtils/blob/ef69cc
       'Content-Type': 'application/json'
     });
 ===========================================
+const httpOptions = {
+      headers: new HttpHeaders({
+        'Content-Type':  'application/json'
+      })
+    };
+
+    this.http1.post('https://localhost:44324/api/log/log', JSON.stringify('this is test data'), httpOptions)
+      .subscribe(
+        res => {
+          console.log(res);
+        },
+        err => {
+          console.log(err);
+        }
+      );
+
+      this.http1.get('https://localhost:44324/api/log')
+      .subscribe(
+        res => {
+          console.log(res);
+        },
+        err => {
+          console.log(err);
+        }
+      );
