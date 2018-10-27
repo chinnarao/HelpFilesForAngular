@@ -15,3 +15,5 @@ const aa: string = UtilsService.getBaseUrl();
     }
 ====================================================================
 mime types: https://github.com/marlon360/mime-types/blob/master/test/test.js
+=====================================================================
+base component style: https://github.com/pjefika/AngularProjectUtils/blob/ef69cca643f755765b7d5ee59ab8eab10e25aa79/src/app/lib/util/services/component-super-service/component-super.service.ts
