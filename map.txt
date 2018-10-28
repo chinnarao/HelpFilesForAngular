@@ -1,0 +1,5 @@
+https://angular.parts/
+https://www.mapbox.com/mapbox-gl-js/api/
+https://github.com/Wykks/ngx-mapbox-gl
+https://github.com/SebastianM/angular-google-maps
+https://github.com/ng2-ui/map
