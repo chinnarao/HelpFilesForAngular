@@ -13,6 +13,7 @@ $5: https://errorception.com/pricing
 error log : open source: https://github.com/FancyGrid/FancyTrack
 $12: https://www.errlog.io/pricing
 $7: http://jslogger.com/pricing
+$5: https://www.justlog.it/pricing
 ========================================================================
 https://golb.hplar.ch/
 full code: angular: 
