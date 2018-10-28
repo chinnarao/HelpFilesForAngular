@@ -66,3 +66,15 @@ const httpOptions = {
         'Content-Type': 'text/plain', 'Access-Control-Allow-Credentials': false, 'Access-Control-Allow-Origin': 'Referer'
         })
 interceptors: https://github.com/angular/angular/tree/master/aio/content/examples/http/src/app/http-interceptors
+=========================================================================================================================
+// The HttpClientInMemoryWebApiModule module intercepts HTTP requests
+    // and returns simulated server responses.
+    // Remove it when a real server is ready to receive requests.
+    HttpClientInMemoryWebApiModule.forRoot(
+      InMemoryDataService, {
+        dataEncapsulation: false,
+        passThruUnknownUrl: true,
+        put204: false // return entity after PUT/update
+      }
+    )
+    ============================================================================================================================
