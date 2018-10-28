@@ -57,3 +57,11 @@ const httpOptions = {
     { id: 3, name: 'Hibernate' }
   ];
   JSON.stringify({ id: 1, name: 'bar' })   // success
+  
+   headers:new Headers({
+        'content-type': 'application/json',
+        'Accept': 'application/json',
+        'Access-Control-Allow-Credentials':true,
+        'Access-Control-Allow-Origin':true,
+        'Content-Type': 'text/plain', 'Access-Control-Allow-Credentials': false, 'Access-Control-Allow-Origin': 'Referer'
+        })
