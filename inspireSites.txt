@@ -34,4 +34,4 @@ https://badoo.com/
 css loaders: 83 loaders samples: https://freefrontend.com/css-loaders/
 
 angular parts: https://angular.parts/
-angular library: https://devarchy/angular
+angular library: https://devarchy.com/angular
