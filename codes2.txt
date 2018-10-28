@@ -23,6 +23,9 @@ base component style: https://github.com/pjefika/AngularProjectUtils/blob/ef69cc
       'Accept': 'application/json',
       'Content-Type': 'application/json'
     });
+    headers: new HttpHeaders({
+    'x-refresh':  'true'
+  })
 ===========================================
 const httpOptions = {
       headers: new HttpHeaders({
