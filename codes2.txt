@@ -65,3 +65,4 @@ const httpOptions = {
         'Access-Control-Allow-Origin':true,
         'Content-Type': 'text/plain', 'Access-Control-Allow-Credentials': false, 'Access-Control-Allow-Origin': 'Referer'
         })
+interceptors: https://github.com/angular/angular/tree/master/aio/content/examples/http/src/app/http-interceptors
