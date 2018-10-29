@@ -41,4 +41,6 @@ http error interceptor loading: https://medium.com/@johnmeguira/intercept-all-ht
 
 laptop to host server: https://blog.mindorks.com/how-to-convert-your-laptop-desktop-into-a-server-and-host-internet-accessible-website-on-it-part-2-cdb4b3633fa9
 
+how to create interface instance: https://zohaib.me/creating-object-based-on-interface-type-in-typescript/
+
 
