@@ -69,6 +69,8 @@ const httpOptions = {
         'Content-Type': 'text/plain', 'Access-Control-Allow-Credentials': false, 'Access-Control-Allow-Origin': 'Referer'
         })
 interceptors: https://github.com/angular/angular/tree/master/aio/content/examples/http/src/app/http-interceptors
+https://github.com/mi-len/clients/blob/e1164b1b96812e0ac18a588c3cefa5ea9f57b9f0/src/app/interceptors/auth.interceptor.ts
+https://github.com/mi-len/clients/blob/e1164b1b96812e0ac18a588c3cefa5ea9f57b9f0/src/app/interceptors/auth.interceptor.ts
 =========================================================================================================================
 // The HttpClientInMemoryWebApiModule module intercepts HTTP requests
     // and returns simulated server responses.
