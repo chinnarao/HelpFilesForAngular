@@ -1,1 +1,3 @@
 https://github.com/angular/angularfire2/blob/master/docs/auth/getting-started.md
+
+firebase : video upload: https://github.com/sofiulgoni/VichaarAdmin/blob/6dd2c326d91597acd722ee2f9718efde070315a6/src/app/services/firebase/firebase.service.ts
