@@ -6,6 +6,8 @@ script.onload = (e) => {
 }
 // bind this to your single page app...
 document.getElementsByTagName('head')[0].appendChild(script);
+
+https://github.com/Cognism/prospector-ui/blob/42e6329386c1e6837190072605a5b292ab7d8d32/src/app/common/services/app-script.service.ts
 =======================================send email from google api=============================
 const aa: string = UtilsService.getBaseUrl();
     if (ev.authResult.additionalUserInfo.isNewUser && !ev.authResult.user.emailVerified) {
