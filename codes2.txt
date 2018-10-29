@@ -73,6 +73,10 @@ https://github.com/mi-len/clients/blob/e1164b1b96812e0ac18a588c3cefa5ea9f57b9f0/
 https://github.com/mi-len/clients/blob/e1164b1b96812e0ac18a588c3cefa5ea9f57b9f0/src/app/interceptors/auth.interceptor.ts
 https://github.com/mecheri/angular-cli-starter/blob/4e1ec9164a89375b0ef003187e4434e769820ae6/src/app/modules/core/interceptors/token-jwt.interceptor.ts
 https://github.com/mecheri/angular-cli-starter/blob/4e1ec9164a89375b0ef003187e4434e769820ae6/src/app/modules/core/interceptors/access-denied.interceptor.ts
+
+Guards:
+https://github.com/knewzen/ocp-dashboard/blob/09ba253712be2b3128ab3e31244ea5d1d106670d/src/app/%40core/core.module.ts
+
 =========================================================================================================================
 // The HttpClientInMemoryWebApiModule module intercepts HTTP requests
     // and returns simulated server responses.
