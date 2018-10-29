@@ -13,6 +13,13 @@ const aa: string = UtilsService.getBaseUrl();
         url: `${UtilsService.getBaseUrl()}/profile`
       });
     }
+    ======================
+    /**
+   * After sign in user gets redirected to home, then to dash
+   */
+  goToRoute() {
+    this.router.navigate(['../../'], { relativeTo: this.route });
+  }
 ====================================================================
 mime types: https://github.com/marlon360/mime-types/blob/master/test/test.js
 =====================================================================
