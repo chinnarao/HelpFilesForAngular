@@ -81,3 +81,4 @@ interceptors: https://github.com/angular/angular/tree/master/aio/content/example
       }
     )
     ============================================================================================================================
+    upload: https://github.com/angular/angular/blob/master/aio/content/examples/http/src/app/uploader/uploader.service.ts
