@@ -5,6 +5,7 @@ https://github.com/KeitaElric/ngx-stepper
 https://www.nuget.org/packages/AspNetCore.Firebase.Authentication/
 https://bitbucket.org/RAPHAEL_BICKEL/aspnetcore.firebase.authentication
 ===================================================================================
+https://rehansaeed.com/optimally-configuring-entity-framework-core/
 public virtual void ConfigureServices(IServiceCollection services) =>
     services.AddDbContextPool<MyDbContext>(
         options => options
