@@ -16,3 +16,19 @@ public virtual void ConfigureServices(IServiceCollection services) =>
             .EnableSensitiveDataLogging(this.hostingEnvironment.IsDevelopment())
             .UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking))
 ===================================================================================
+private async static Task<IEnumerable<Ant>> Search(Context context, int? age, string name, string game)
+{
+    var query = context.Ants as IQueryable<Ant>;
+
+    if (age.HasValue)
+        query = query.Where(x => x.AgeInDays == age);
+
+    if (!String.IsNullOrEmpty(name))
+        query = query.Where(x => x.Name == name);
+
+    if (!String.IsNullOrEmpty(game))
+        query = query.Where(x => x.FavoriteAntGame == game);
+
+    return await query.ToListAsync();
+}
+======================================================================================
