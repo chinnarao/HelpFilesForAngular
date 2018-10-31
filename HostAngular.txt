@@ -4,3 +4,5 @@ https://github.com/orizens/echoes-player    [http://echoesplayer.com/#/search/vi
 https://github.com/stbui/angular-material-app
 https://github.com/faxad/cartify     [https://faxad.github.io/cartify/items]
 
+https://github.com/JsssCode/SmallAwesomeShop    [https://www.youtube.com/watch?v=aggRpY_5t1o]
+
