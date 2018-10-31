@@ -35,3 +35,6 @@ maps:
 1. https://github.com/bruckwubete/tibeb.front/blob/d56db329b8906d95bf1c89d0e4b937d99130ec16/src/app/pages/maps/maps.module.ts
 2. navbar: https://github.com/RIntegerB2B/SellerApp/tree/3653ef79e3f38e280275881b32505215750aefdc/src/app/shared/nav-header
 
+
+https://github.com/orizens/ngx-infinite-scroll
+
