@@ -42,4 +42,5 @@ https://github.com/kolkov/angular-editor
 https://github.com/Enngage/ngx-paypal
 https://enngage.github.io/ngx-captcha/
 https://github.com/sindresorhus/screenfull.js/releases
+https://github.com/hivivo/ngx-json-viewer
 
