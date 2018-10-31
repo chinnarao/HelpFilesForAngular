@@ -38,4 +38,8 @@ maps:
 
 https://github.com/orizens/ngx-infinite-scroll
 https://github.com/orizens/ngx-typeahead
+https://github.com/kolkov/angular-editor
+https://github.com/Enngage/ngx-paypal
+https://enngage.github.io/ngx-captcha/
+https://github.com/sindresorhus/screenfull.js/releases
 
