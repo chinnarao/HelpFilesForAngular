@@ -37,4 +37,5 @@ maps:
 
 
 https://github.com/orizens/ngx-infinite-scroll
+https://github.com/orizens/ngx-typeahead
 
