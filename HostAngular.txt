@@ -3,6 +3,7 @@ https://github.com/CRCx86/coachu_boot_angular
 https://github.com/orizens/echoes-player    [http://echoesplayer.com/#/search/videos]
 https://github.com/stbui/angular-material-app
 https://github.com/faxad/cartify     [https://faxad.github.io/cartify/items]
-
+https://github.com/Ismaestro/angular7-example-app
 https://github.com/JsssCode/SmallAwesomeShop    [https://www.youtube.com/watch?v=aggRpY_5t1o]
+https://github.com/ofcyln/frontmen-assignment
 
