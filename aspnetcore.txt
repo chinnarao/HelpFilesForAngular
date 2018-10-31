@@ -36,3 +36,4 @@ https://github.com/aspnet-contrib/AspNet.Security.OAuth.Extensions
 ===================
 https://www.c-sharpcorner.com/article/regular-expressions-usage-in-C-Sharp/
 https://github.com/asadsahi/AspNetCoreSpa
+https://github.com/Enngage/AdaptKenticoMvc
