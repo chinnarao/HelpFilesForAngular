@@ -1,2 +1,8 @@
 https://visualstudiomagazine.com/articles/2016/01/01/exploiting-typescript-arrays.aspx
 typescript basic types: https://www.typescriptlang.org/docs/handbook/basic-types.html
+
+utility: 
+=======
+typescript : https://github.com/sindresorhus/is
+https://github.com/sindresorhus/ow
+https://github.com/SamVerschueren/ngx-ow
