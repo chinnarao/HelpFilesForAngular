@@ -38,6 +38,8 @@ public IActionResult AnotherMethod()
 {
      return StatusCode(Microsoft.AspNetCore.Http.StatusCodes.Status405MethodNotAllowed);
 }
+jwt token: HttpContext.User
+HttpContext.User.Identity.IsAuthenticated
 ======================================================================================
 https://github.com/aspnet-contrib/AspNet.Security.OAuth.Extensions
 ===================
