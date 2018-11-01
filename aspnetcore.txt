@@ -32,6 +32,13 @@ private async static Task<IEnumerable<Ant>> Search(Context context, int? age, st
     return await query.ToListAsync();
 }
 ======================================================================================
+[HttpGet]
+[Route("AnotherMethod")]
+public IActionResult AnotherMethod()
+{
+     return StatusCode(Microsoft.AspNetCore.Http.StatusCodes.Status405MethodNotAllowed);
+}
+======================================================================================
 https://github.com/aspnet-contrib/AspNet.Security.OAuth.Extensions
 ===================
 https://www.c-sharpcorner.com/article/regular-expressions-usage-in-C-Sharp/
