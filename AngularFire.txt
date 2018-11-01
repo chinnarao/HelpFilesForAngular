@@ -5,3 +5,13 @@ firebase : video upload: https://github.com/sofiulgoni/VichaarAdmin/blob/6dd2c32
 https://github.com/davideast/FirebaseAuth-WebApi/blob/master/FirebaseAuth.Model/FbUser.cs
 
 https://stackoverflow.com/questions/42336950/firebase-authentication-jwt-with-net-core
+
+
+createProject(project: Project) {
+  const headers = new HttpHeaders().set('Content-Type', 'application/json')
+    .append('Access-Control-Allow-Origin', '*')
+    .append('Authorization', environment.token)
+    .append('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
+  return this.http.post(environment.baseUrl + 'project/create',
+    JSON.stringify(project), {headers: headers, responseType: 'text'});
+}
