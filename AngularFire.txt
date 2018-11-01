@@ -1,17 +1,20 @@
 https://github.com/angular/angularfire2/blob/master/docs/auth/getting-started.md
-
 firebase : video upload: https://github.com/sofiulgoni/VichaarAdmin/blob/6dd2c326d91597acd722ee2f9718efde070315a6/src/app/services/firebase/firebase.service.ts
-
 https://github.com/davideast/FirebaseAuth-WebApi/blob/master/FirebaseAuth.Model/FbUser.cs
-
 https://stackoverflow.com/questions/42336950/firebase-authentication-jwt-with-net-core
-
-
-createProject(project: Project) {
-  const headers = new HttpHeaders().set('Content-Type', 'application/json')
-    .append('Access-Control-Allow-Origin', '*')
-    .append('Authorization', environment.token)
-    .append('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
-  return this.http.post(environment.baseUrl + 'project/create',
-    JSON.stringify(project), {headers: headers, responseType: 'text'});
-}
+=====================================================================================================
+private getHeaders() {
+        const token = localStorage.getItem('token');
+        if (token) {
+            const headers = new HttpHeaders()
+                .set('Content-Type', 'application/json')
+                .append('Access-Control-Allow-Origin', '*')
+                .append('Authorization', 'Bearer ' + token || '')
+                .append('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
+            return headers;
+        } else {
+            console.error('no token present, please login first.');
+            return new HttpHeaders();
+        }
+    }
+=====================================================================================================
