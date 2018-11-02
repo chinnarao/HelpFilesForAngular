@@ -16,7 +16,8 @@ public products: Product[] = [
   
   just mock url for testing with configure time wait in the url itself:
   https://www.mocky.io/v2/5ab2663b2e00003d044cc144?mocky-delay=5000ms
-  https://jsonplaceholder.typicode.com/users
+  https://jsonplaceholder.typicode.com/users   [https://github.com/ethanZHY/AngularMisc/blob/a144c5b050083f5e717ccd59fc53946f6aed3fa4/src/app/services/user.service.ts]
+  
   
   loading stackblitz:
   https://stackblitz.com/edit/angular-o3my4y
