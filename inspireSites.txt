@@ -35,3 +35,4 @@ css loaders: 83 loaders samples: https://freefrontend.com/css-loaders/
 
 angular parts: https://angular.parts/
 angular library: https://devarchy.com/angular
+https://ngx.tools/#/search
