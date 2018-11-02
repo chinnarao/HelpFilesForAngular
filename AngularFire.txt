@@ -20,5 +20,8 @@ private getHeaders() {
 =====================================================================================================
 refresh token:
 https://itnext.io/angular-tutorial-implement-refresh-token-with-httpinterceptor-bfa27b966f57
+https://github.com/lesgermes/lesgermes_angular
+
+
 expire datetime related:
 https://www.toptal.com/angular/angular-6-jwt-authentication
