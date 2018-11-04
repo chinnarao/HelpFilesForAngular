@@ -24,7 +24,8 @@ Using Dexie.js in a TypeScript application : https://golb.hplar.ch/2018/01/Using
 great site: header and generic services.
 http://www.soaringroad.com/home
 https://github.com/wangzhenhui1992
-
+=====================================================
+search bar: https://codepen.io/huange/pen/rbqsD
 
 
 =================================================   LOGO    ===============================================
