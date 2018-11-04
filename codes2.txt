@@ -101,4 +101,5 @@ https://github.com/knewzen/ocp-dashboard/blob/09ba253712be2b3128ab3e31244ea5d1d1
     upload: https://github.com/angular/angular/blob/master/aio/content/examples/http/src/app/uploader/uploader.service.ts
     ===============
     this.returnUrl = this.route.snapshot.queryParams['returnUrl'] || '/';
-    ==================================
+    ================================================================================================================================
+    https://github.com/angular/angular/blob/master/aio/src/app/search/search-box/search-box.component.ts
