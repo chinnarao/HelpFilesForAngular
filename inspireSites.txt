@@ -14,7 +14,7 @@ https://mgsdemo.mgscoder.com/mgscode/regform/index-2-modern.html
 search : 
 https://dictionary.cambridge.org/us/dictionary/english/murky
 https://www.wayn.com/
-
+https://github.com/fgdgfx/shop/blob/b2a1f5c1a4d601f22b3ff50fbf5fa0e978c93e1c/src/app/shared/search/search.component.ts
 -----------------------------------------------------------------------------------
 google language : https://dictionary.cambridge.org/us/dictionary/english/murky
 https://badoo.com/
@@ -22,18 +22,8 @@ https://badoo.com/
 google login: https://google-api-firebase.herokuapp.com/#/
 https://github.com/vanderlin/google-api-firebase-boilerplate
 ------------------------------------------------------------------------------------------
-$5: https://errorception.com/pricing
-error log : open source: https://github.com/FancyGrid/FancyTrack
-$12: https://www.errlog.io/pricing
-$7: http://jslogger.com/pricing
-$5: https://www.justlog.it/pricing
-========================================================================
-https://golb.hplar.ch/
-full code: angular: 
-error handler: stacktrace.js: https://github.com/ralscha/blog/tree/master/ngerrorhandler
-https://golb.hplar.ch/2018/10/global-errorhandler-angular.html
-Using Dexie.js in a TypeScript application : https://golb.hplar.ch/2018/01/Using-Dexie-js-in-a-TypeScript-application.html
------------------------------------------------------------------------------------------------------
+
+
 great site: header and generic services.
 http://www.soaringroad.com/home
 https://github.com/wangzhenhui1992
