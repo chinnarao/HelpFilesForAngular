@@ -109,3 +109,6 @@ https://github.com/knewzen/ocp-dashboard/blob/09ba253712be2b3128ab3e31244ea5d1d1
     https://medium.com/@nacimidjakirene/angular-search-autosuggest-with-observables-6f42987f80e6
     https://github.com/jiqsaw/j-weather-forecast/blob/cec6233b4d4ee848adac75438ec6995393733da8/src/app/weather/components/search/search.component.ts
     https://github.com/AleksReen/ClientDataBase/blob/a7db8f31458fe8c6d8cc41dc3ecf11293e01dfc8/src/app/search/app-search.component.ts
+    
+    ================================================
+    forms: https://golb.hplar.ch/2017/01/Form-validation-with-Angular-and-Spring-Boot.html
