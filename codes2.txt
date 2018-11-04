@@ -107,3 +107,4 @@ https://github.com/knewzen/ocp-dashboard/blob/09ba253712be2b3128ab3e31244ea5d1d1
     https://github.com/TeamWertarbyte/material-ui-search-bar#readme
     https://alligator.io/angular/real-time-search-angular-rxjs/
     https://medium.com/@nacimidjakirene/angular-search-autosuggest-with-observables-6f42987f80e6
+    https://github.com/jiqsaw/j-weather-forecast/blob/cec6233b4d4ee848adac75438ec6995393733da8/src/app/weather/components/search/search.component.ts
