@@ -106,3 +106,4 @@ https://github.com/knewzen/ocp-dashboard/blob/09ba253712be2b3128ab3e31244ea5d1d1
     https://medium.com/@uditgogoi1/search-bar-with-autocomplete-using-angular-5-and-angular-material-c5a77a429da7
     https://github.com/TeamWertarbyte/material-ui-search-bar#readme
     https://alligator.io/angular/real-time-search-angular-rxjs/
+    https://medium.com/@nacimidjakirene/angular-search-autosuggest-with-observables-6f42987f80e6
