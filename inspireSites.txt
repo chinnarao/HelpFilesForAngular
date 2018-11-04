@@ -2,9 +2,22 @@ country dropdown: https://line.me/en-US/ |||  https://badoo.com/
 signup login: https://foursquare.com/
 about page: https://the-dots.com/
 free prints 60 4x6: https://www.snapfish.com
-home page search idea: https://www.wayn.com/
-stepper: https://akveo.github.io/nebular/docs/components/stepper/overview#nbstepcomponent
-menu : https://dictionary.cambridge.org/us/dictionary/english/murky
+-----------------------------
+stepper: 
+https://akveo.github.io/nebular/docs/components/stepper/overview#nbstepcomponent
+https://akveo.github.io/nebular/docs/components/stepper/overview#nbstepcomponent
+https://codecanyon.net/item/multistep-html-form-multi-step-multipurpose-html-form/20762453?s_rank=10
+https://codecanyon.net/item/regform-advanced-multi-step-registration-html-ajax-form/20371902?s_rank=11
+========================================
+https://mgsdemo.mgscoder.com/mgscode/regform/index-2-modern.html
+------------------------------------------------------------------------------------
+search : 
+https://dictionary.cambridge.org/us/dictionary/english/murky
+https://www.wayn.com/
+
+-----------------------------------------------------------------------------------
+google language : https://dictionary.cambridge.org/us/dictionary/english/murky
+https://badoo.com/
 ------------------------------------------------------------------------------------------
 google login: https://google-api-firebase.herokuapp.com/#/
 https://github.com/vanderlin/google-api-firebase-boilerplate
