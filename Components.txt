@@ -10,3 +10,11 @@ console log: https://github.com/DanielKucal/ts-debug
 https://github.com/A-l-y-l-e/Alyle-UI
 
 https://bulma.io/
+https://semantic-ui.com/
+https://purecss.io/
+https://onsen.io/
+https://github.com/LFeh/css-components
+https://materializecss.com/
+https://www.muicss.com/
+https://joe-crick.github.io/pure-css-components/
+https://bashooka.com/coding/25-amazing-web-ui-components-built-using-pure-css/
