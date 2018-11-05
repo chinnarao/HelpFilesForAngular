@@ -6,3 +6,5 @@ utility:
 typescript : https://github.com/sindresorhus/is
 https://github.com/sindresorhus/ow
 https://github.com/SamVerschueren/ngx-ow
+====================================
+101 :   https://github.com/ashishgkwd/typescript-101
