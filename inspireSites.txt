@@ -42,3 +42,6 @@ angular library: https://devarchy.com/angular
 https://ngx.tools/#/search
 ============================
 fullscreen: https://codepen.io/brenden/pen/VLjKMQ
+
+=====
+sliders : css3 : https://bashooka.com/coding/pure-css3-image-sliders/
