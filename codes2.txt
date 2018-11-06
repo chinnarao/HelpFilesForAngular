@@ -24,6 +24,7 @@ const aa: string = UtilsService.getBaseUrl();
   }
   
   isNaN(value) ? 0 : value / 100
+  myItems = Array.from(Array(10).keys());
 ====================================================================
 mime types: https://github.com/marlon360/mime-types/blob/master/test/test.js
 =====================================================================
