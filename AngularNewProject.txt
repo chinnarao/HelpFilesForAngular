@@ -1,0 +1,27 @@
+angular 6 to 7 steps :
+--------------------------------
+"@angular/cdk": "^6.4.7",
+"@angular/flex-layout": "github:angular/flex-layout-builds",
+
+"firebase": "^5.4.1",
+"firebaseui": "^3.4.0",
+"firebaseui-angular": "^3.3.2",
+"@angular/fire": "^5.0.0",
+
+"@angular/material": "^6.4.7",
+"@angular-mdc/theme": "^0.40.1",
+"@angular-mdc/web": "^0.40.1",
+
+"dexie": "^2.0.4",
+"stacktrace-js": "^2.0.0",
+"@sentry/browser": "^4.2.3",
+
+"@ngx-loading-bar/http-client": "^2.2.0",
+"@ngx-loading-bar/router": "^2.2.0",
+"ngx-logger": "^3.3.3",
+"ngx-toastr": "^9.1.1",
+"ng-mat-search-bar": "^2.0.0-beta.1",
+
+You can install and add devDependencies to your project with the help of the --save-dev flag for npm install.
+
+npm install --save-dev @angular/cdk
