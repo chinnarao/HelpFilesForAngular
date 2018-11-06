@@ -26,7 +26,7 @@ You can install and add devDependencies to your project with the help of the --s
 =====================================================================================================================
 ng new test1 --routing --style=scss
 npm install --save @angular/cdk @angular/flex-layout @angular/fire firebase firebaseui firebaseui-angular
-
 npm install --save @angular/material @angular-mdc/web @angular-mdc/theme dexie stacktrace-js @sentry/browser
+npm install --save ngx-toastr @ngx-loading-bar/http-client @ngx-loading-bar/router ngx-logger
 
-npm install --save ngx-toastr @ngx-loading-bar/http-client @ngx-loading-bar/router ngx-logger ng-mat-search-bar
+npm install --save @angular/cdk @angular/flex-layout @angular/fire firebase firebaseui firebaseui-angular @angular/material @angular-mdc/web @angular-mdc/theme dexie stacktrace-js @sentry/browser ngx-toastr @ngx-loading-bar/http-client @ngx-loading-bar/router ngx-logger
