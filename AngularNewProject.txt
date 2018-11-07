@@ -30,3 +30,5 @@ npm install --save @angular/material @angular-mdc/web @angular-mdc/theme dexie s
 npm install --save ngx-toastr @ngx-loading-bar/http-client @ngx-loading-bar/router ngx-logger
 
 npm install --save @angular/cdk @angular/flex-layout @angular/fire firebase firebaseui firebaseui-angular @angular/material @angular-mdc/web @angular-mdc/theme dexie stacktrace-js @sentry/browser ngx-toastr @ngx-loading-bar/http-client @ngx-loading-bar/router ngx-logger
+
+npm i --save-dev angular-in-memory-web-api
