@@ -6,7 +6,6 @@ https://github.com/faxad/cartify     [https://faxad.github.io/cartify/items]
 https://github.com/Ismaestro/angular7-example-app
 https://github.com/JsssCode/SmallAwesomeShop    [https://www.youtube.com/watch?v=aggRpY_5t1o]
 https://github.com/ofcyln/frontmen-assignment
-https://github.com/ZiweiHuang94/dat265/tree/master/frontend
 ===================================================
 scooppages error handler: and code: 
 full code: angular: https://golb.hplar.ch/       ==>  https://github.com/ralscha/blog
