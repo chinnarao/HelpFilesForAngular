@@ -1,5 +1,6 @@
 https://github.com/sshahu2/ecommercesite
 https://github.com/codetok/cdk-admin
+https://github.com/imbafym/miopos-report-system
 https://github.com/CRCx86/coachu_boot_angular
 https://github.com/orizens/echoes-player    [http://echoesplayer.com/#/search/videos]
 https://github.com/stbui/angular-material-app
