@@ -1,4 +1,7 @@
-basics: https://www.techiediaries.com/angular-router/
+basics: 
+https://www.techiediaries.com/angular-router/
+https://github.com/Fl0r14n/ngx-range-slider/tree/master/src/components/range-slider
+----------------------------------
 
 alert service: https://github.com/jiwenjiang/angular4-material2/blob/master/src/app/service/noty/noty.service.ts
 shared module: https://github.com/jiwenjiang/angular4-material2/blob/master/src/app/shared/shared.module.ts
