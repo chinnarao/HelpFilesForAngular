@@ -21,3 +21,4 @@ https://bashooka.com/coding/25-amazing-web-ui-components-built-using-pure-css/
 
 carousel:
 https://github.com/Jagailo/Animated-Angular-Carousel
+https://github.com/JeanPaulll/bs-slide-angular-agenciacriamais
