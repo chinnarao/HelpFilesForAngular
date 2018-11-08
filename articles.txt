@@ -43,4 +43,6 @@ laptop to host server: https://blog.mindorks.com/how-to-convert-your-laptop-desk
 
 how to create interface instance: https://zohaib.me/creating-object-based-on-interface-type-in-typescript/
 
+https://www.sitepoint.com/working-phone-numbers-javascript/
+
 
