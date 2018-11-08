@@ -23,3 +23,4 @@ carousel:
 https://github.com/Jagailo/Animated-Angular-Carousel
 https://github.com/JeanPaulll/bs-slide-angular-agenciacriamais
 https://github.com/lyfeyaj/swipe
+https://github.com/dockleryxk/ng-simple-slideshow
