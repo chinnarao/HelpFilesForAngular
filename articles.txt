@@ -46,5 +46,8 @@ how to create interface instance: https://zohaib.me/creating-object-based-on-int
 https://www.sitepoint.com/working-phone-numbers-javascript/
 =====================
 STATE MANAGEMENT : https://blog.strongbrew.io/do-we-really-need-redux/
+https://juristr.com/blog/2018/10/simple-state-management-with-scan/
+
+=============================================================================
 
 
