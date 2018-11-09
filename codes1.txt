@@ -40,7 +40,8 @@ https://stackblitz.com/edit/ng-zorro-antd-setup-1jw6mk
 setTimeout(() => {
       this.router.navigate(['/login']);
     }, 3000);
-
+======
+The spread operator (...) will create a new instance  SEE: https://blog.strongbrew.io/do-we-really-need-redux/.
 ----------------------------------------------------------------------------------------------------------------------------
 Google translate: 
 https://www.newcenturyhonda.com/
