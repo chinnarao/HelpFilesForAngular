@@ -10,6 +10,7 @@ https://github.com/Ismaestro/angular7-example-app
 https://github.com/JsssCode/SmallAwesomeShop    [https://www.youtube.com/watch?v=aggRpY_5t1o]
 https://github.com/ofcyln/frontmen-assignment
 https://angular-templates.io/
+https://stackblitz.com/edit/subjective?file=app%2Fapp.module.ts
 ===================================================
 scooppages error handler: and code: 
 full code: angular: https://golb.hplar.ch/       ==>  https://github.com/ralscha/blog
