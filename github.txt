@@ -47,4 +47,6 @@ https://github.com/thonyrg/quickSearch
 ----------------------------------------
 date range picker
 http://angularjs.bestjquery.com/demo/date-picker/
+-----------------------------------------------------------
+ location finder , google maps : https://github.com/tanoy009/ng4-geoautocomplete
 
