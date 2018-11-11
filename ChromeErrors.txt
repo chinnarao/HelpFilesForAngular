@@ -1,3 +1,6 @@
 1. Failed to load resource: net::ERR_CONNECTION_RESET
 Solution: clear cookies
 -----------------------------------------------------------------
+2. WARNING in budgets, maximum exceeded for initial. Budget 2 MB was exceeded by 102 kB.
+solution: https://medium.com/frontend-coach/setting-budgets-with-new-angular-cli-e6974e85777f
+
