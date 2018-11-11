@@ -40,6 +40,7 @@ css loaders: 83 loaders samples: https://freefrontend.com/css-loaders/
 angular parts: https://angular.parts/
 angular library: https://devarchy.com/angular
 https://ngx.tools/#/search
+https://bestofjs.org/tags/angular
 ============================
 fullscreen: https://codepen.io/brenden/pen/VLjKMQ
 
