@@ -19,6 +19,7 @@ https://www.muicss.com/
 https://joe-crick.github.io/pure-css-components/
 https://bashooka.com/coding/25-amazing-web-ui-components-built-using-pure-css/
 https://sq-ui.github.io/ng-sq-ui/#/
+http://ng-lightning.github.io/ng-lightning/#/
 
 carousel:
 https://github.com/Jagailo/Animated-Angular-Carousel
