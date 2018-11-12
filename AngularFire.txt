@@ -25,3 +25,5 @@ https://github.com/lesgermes/lesgermes_angular
 
 expire datetime related:
 https://www.toptal.com/angular/angular-6-jwt-authentication
+-------------------------------------------------------------
+https://github.com/filipppp/angular7-firestore-chat
