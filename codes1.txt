@@ -97,3 +97,16 @@ AngularFireModule.initializeApp({
 material2: https://github.com/imbafym/miopos-report-system/blob/c6e9b4872e326e62659b3371aa6e4b842d8a9274/src/app/product/product.component.html
 
 https://github.com/strongTeamSWD/CPA.Front/blob/efdf4a732bc3999f60db32b396cfbbf0161d6f61/src/app/pages/contact/contact.component.html
+===================
+this.http.get(url, options)
+            .map(res => {
+                return res.text();
+            })
+            .catch(this.coreApi.handleError)
+            .subscribe(source => {
+                this.source.next(source);
+            },
+            error => {
+                this.toaster.sendErrorMessage(error);
+            });
+  =============
