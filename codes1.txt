@@ -41,7 +41,7 @@ setTimeout(() => {
       this.router.navigate(['/login']);
     }, 3000);
     
-    Date.now()
+    Date.now()      users: BehaviorSubject<any[]> = new BehaviorSubject([]);
 ======
 The spread operator (...) will create a new instance  SEE: https://blog.strongbrew.io/do-we-really-need-redux/.
 ----------------------------------------------------------------------------------------------------------------------------
