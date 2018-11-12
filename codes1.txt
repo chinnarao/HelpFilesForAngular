@@ -111,3 +111,9 @@ this.http.get(url, options)
             });
   =============
   nice services: https://github.com/JaimeStill/observable-collections/tree/master/ClientApp/app/services
+  ===================
+  export const CURSOS_TYPE = {
+ PUBLICADOS: 'publicados',
+ SUSCRITOS: 'suscritos',
+ DISPONIBLES: 'disponibles'
+};
