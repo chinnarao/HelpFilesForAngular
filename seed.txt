@@ -1,4 +1,17 @@
 https://github.com/ngx-rocket/generator-ngx-rocket
-
+==========================================================
 http://peric.github.io/GetCountries/
 json object count: http://jsonviewer.stack.hu/
+
+{ 
+"countryCode": "VE",  "countryName": "Venezuela", "currencyCode": "VES", 
+"isoNumeric": "862", "north": "12.201903","south": "0.626311", "continent": "SA" 
+}
+
+"isoNumeric" ===  "countryCallingCode"
+"continent"  ===  "currencySymbol"
+"north"      ===  "lattitude"
+"south"      ===  "longitude"
+
+
+
