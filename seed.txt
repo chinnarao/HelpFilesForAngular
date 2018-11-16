@@ -1,4 +1,4 @@
 https://github.com/ngx-rocket/generator-ngx-rocket
 
 http://peric.github.io/GetCountries/
-http://jsonviewer.stack.hu/
+json object count: http://jsonviewer.stack.hu/
