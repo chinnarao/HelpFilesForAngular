@@ -1,1 +1,5 @@
 https://github.com/AaronWu666/GP/tree/a110ab3a64b90481abb7017b0f5392774a9899f2
+
+https://github.com/Thorium/Linq.Expression.Optimizer
+https://thorium.github.io/Linq.Expression.Optimizer/
+https://github.com/scottksmith95/LINQKit
