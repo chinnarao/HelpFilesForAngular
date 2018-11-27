@@ -52,4 +52,6 @@ http://angularjs.bestjquery.com/demo/date-picker/
  =====================================================================================
  ngrx store : good example: https://github.com/SantiagoGdaR/angular-ngrx
  
+ re captcha: https://github.com/vad3x/Vad3x.Extensions.AspNetCore/tree/bd90d849cad4361e521455d579fe88cadcc4881a/src
+ 
 
