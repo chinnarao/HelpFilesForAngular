@@ -32,3 +32,27 @@ services.AddDbContext<KutyAppServiceDbContext>(options =>
 	    =====
 https://github.com/Hinaar/KutyApp
 string connectionString = Configuration.GetConnectionString(nameof(KutyAppServiceDbContext));
+================================================================================================
+public async Task SeedDatabaseAsync()
+        {
+            // Create spatial factory - srid megadas nelku nem megy, csak azonos srid  -u adatok kozt kepes keresni stb.
+
+            var rnd = new Random();
+            const string chars = "0123456789";
+            var poik = Enumerable.Range(1, 50).Select(x => new Poi
+            {
+                Name = $"Poi {x}",
+                ImageUrl = "https://via.placeholder.com/300",
+                Url = "https://via.placeholder.com/100",
+                PhoneNumber = new string(Enumerable.Repeat(chars, 7).Select(s => s[rnd.Next(s.Length)]).ToArray()),
+                OpeningTime = new TimeSpan(09, 30, 00),
+                CloseTime = new TimeSpan(22, 00, 00),
+                EnvironmentTypes = (EnvironmentType)(x % 6),
+                Location = LocationManager.GeometryFactory.CreatePoint(new Coordinate(rnd.NextDouble() * 90.0, rnd.NextDouble() * 90.0))
+            }).ToList();
+
+            DbContext.Pois.AddRange(poik);
+
+            await DbContext.SaveChangesAsync();
+        }
+===============================================================================================
