@@ -29,3 +29,5 @@ services.AddDbContext<KutyAppServiceDbContext>(options =>
                         b.MigrationsAssembly($"{nameof(KutyApp)}.{nameof(Services)}.{nameof(Environment)}.{nameof(Api)}"); }
                     );
             });
+	    =====
+	    https://github.com/Hinaar/KutyApp
