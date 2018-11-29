@@ -30,6 +30,7 @@ services.AddDbContext<KutyAppServiceDbContext>(options =>
                     );
             });
 	    =====
+	    string hostname = Configuration.GetValue<string>("RDS_HOSTNAME");
 https://github.com/Hinaar/KutyApp
 string connectionString = Configuration.GetConnectionString(nameof(KutyAppServiceDbContext));
 ================================================================================================
