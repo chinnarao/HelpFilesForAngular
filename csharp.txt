@@ -18,3 +18,14 @@ great codes: https://github.com/CAUCA-9-1-1/survip-webapi
 
 if (string.IsNullOrEmpty(wrapper?.point))
 					return null;
+============================================================
+					
+services.AddDbContext<KutyAppServiceDbContext>(options =>
+            {
+                options.UseSqlServer(
+                    connectionString,
+                    b => {
+                        b.UseNetTopologySuite();
+                        b.MigrationsAssembly($"{nameof(KutyApp)}.{nameof(Services)}.{nameof(Environment)}.{nameof(Api)}"); }
+                    );
+            });
