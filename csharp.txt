@@ -30,4 +30,5 @@ services.AddDbContext<KutyAppServiceDbContext>(options =>
                     );
             });
 	    =====
-	    https://github.com/Hinaar/KutyApp
+https://github.com/Hinaar/KutyApp
+string connectionString = Configuration.GetConnectionString(nameof(KutyAppServiceDbContext));
