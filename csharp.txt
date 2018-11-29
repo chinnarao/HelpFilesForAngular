@@ -14,3 +14,7 @@ https://github.com/nkovacic/Sample-ASP.NET-project/blob/d9fba92f03bdf1d117629265
 Repository: https://github.com/gkrupkowski/Contacts/blob/07cd4949dfc36c7d9f12930341546520f8d5ff2a/Contacts.Domain/Repository/Common/BaseRepository.cs
 
 great codes: https://github.com/CAUCA-9-1-1/survip-webapi
+
+
+if (string.IsNullOrEmpty(wrapper?.point))
+					return null;
