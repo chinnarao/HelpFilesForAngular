@@ -12,3 +12,5 @@ https://github.com/arveeidjord/FinnMote/blob/97d4e13f4b117dcb12bf653f8a4f7ae9fb5
 https://github.com/nkovacic/Sample-ASP.NET-project/blob/d9fba92f03bdf1d1176292654f489aa01392de79/Sample.Core/Data/Database/Queries/BaseQuery.cs
 
 Repository: https://github.com/gkrupkowski/Contacts/blob/07cd4949dfc36c7d9f12930341546520f8d5ff2a/Contacts.Domain/Repository/Common/BaseRepository.cs
+
+great codes: https://github.com/CAUCA-9-1-1/survip-webapi
