@@ -6,3 +6,9 @@
 6. **json random data: http://jsongen.pykaso.net/
 7. any image: http://placehold.it/16x16
 @HostBinding : https://github.com/wangzhenhui1992/soaringroad-front/blob/master/src/app/page/page.component.ts
+======================
+Path.AltDirectorySeparatorChar=/
+Path.DirectorySeparatorChar=\
+Path.PathSeparator=;
+Path.VolumeSeparatorChar=:
+======================================
