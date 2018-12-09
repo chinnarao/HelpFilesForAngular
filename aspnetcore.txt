@@ -5,6 +5,7 @@ https://github.com/KeitaElric/ngx-stepper
 https://www.nuget.org/packages/AspNetCore.Firebase.Authentication/
 https://bitbucket.org/RAPHAEL_BICKEL/aspnetcore.firebase.authentication
 https://github.com/hherzl/EntityFrameworkCore2ForEnterprise/tree/master/Code/Backend/OnLineStore
+https://github.com/adskidolen/FootballEventOrganizer/tree/e9fba13d2f5bb2d26c7fccf51dcb244cdcda5f51/src/Footeo
 ===================================================================================
 https://rehansaeed.com/optimally-configuring-entity-framework-core/
 public virtual void ConfigureServices(IServiceCollection services) =>
