@@ -49,5 +49,5 @@ STATE MANAGEMENT : https://blog.strongbrew.io/do-we-really-need-redux/
 https://juristr.com/blog/2018/10/simple-state-management-with-scan/
 
 =============================================================================
-
+angular forms: https://blog.grossman.io/real-world-angular-reactive-forms/
 
