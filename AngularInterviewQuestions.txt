@@ -2,3 +2,4 @@
 2. what is polyfill
 3. what are the http verbs; answer: https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them
 4. javascript , event.preventDefault() vs event.stopPropagation() 
+5. angular, lazy load, routconfig using loadChildren, directly loads from the server and at the same time , remove homemodule in appmodule.
