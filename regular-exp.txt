@@ -1,0 +1,3 @@
+cell phone: '^[0-9;)(-]+\$'
+social security: '^[0-9]*$'
+numbers only: (/[^0-9]*/g, '')
