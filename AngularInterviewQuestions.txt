@@ -8,5 +8,6 @@
 7. angula, href vs routerLink : href will do a complete reload of your page with a new uri,routerLink there will be only one
    instance of your service through the app.
 8. what you like in angular: https://angular-guru.com/blog/angular-more-unknown-features
+   dependency injection, tree shaking, hammerjs support, reactive forms, validations, module lazy load
 
 
