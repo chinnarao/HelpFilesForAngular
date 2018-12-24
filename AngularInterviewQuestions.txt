@@ -4,4 +4,6 @@
 4. javascript , event.preventDefault() vs event.stopPropagation() 
 5. angular, lazy load, routconfig using loadChildren, directly loads from the server and at the same time , remove homemodule in
    appmodule.  https://blog.angular-university.io/angular2-ngmodule/
+6. angular , app-wide singleton and only instantiated once, using  "@Injectable({  providedIn: 'root',})"
+
 
