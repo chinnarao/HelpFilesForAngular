@@ -5,5 +5,7 @@
 5. angular, lazy load, routconfig using loadChildren, directly loads from the server and at the same time , remove homemodule in
    appmodule.  https://blog.angular-university.io/angular2-ngmodule/
 6. angular , app-wide singleton and only instantiated once, using  "@Injectable({  providedIn: 'root',})"
+7. angula, href vs routerLink : href will do a complete reload of your page with a new uri,routerLink there will be only one
+   instance of your service through the app.
 
 
