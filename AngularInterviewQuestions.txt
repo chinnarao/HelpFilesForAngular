@@ -11,6 +11,7 @@
    dependency injection, tree shaking, hammerjs support, reactive forms, validations, module lazy load, interceptors, Preload Lazy Modules
 
 9. https://confluence.ucdmc.ucdavis.edu/confluence/download/attachments/54243991/How%20to%20define%20a%20highly%20scalable%20folder%20structure%20for%20your%20Angular%20project.pdf?version=1&modificationDate=1538681481000&api=v2
-=========
+10. rxjs, When would you use an Observable vs a BehaviorSubject?
+answer: https://stackoverflow.com/questions/39494058/behaviorsubject-vs-observable
 
 
