@@ -52,4 +52,5 @@ https://juristr.com/blog/2018/10/simple-state-management-with-scan/
 angular forms:  https://blog.grossman.io/real-world-angular-reactive-forms/
                 https://www.youtube.com/watch?v=JeeUY6WaXiA
 ============================================================================
+sharing data in angular: https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/
 
