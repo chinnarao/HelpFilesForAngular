@@ -14,4 +14,6 @@
 10. rxjs, When would you use an Observable vs a BehaviorSubject?
 answer: https://stackoverflow.com/questions/39494058/behaviorsubject-vs-observable
 
+11. lodash / underscore not required: https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
+
 
