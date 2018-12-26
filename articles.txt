@@ -67,5 +67,6 @@ angular cli : https :ssl certificate: https://medium.com/@richardr39/using-angul
 html 5 geolocation: angular 2: https://gist.github.com/sasha7/0c32f3686eb49d44ccc8
 https://github.com/jagdishmastek/Angular5-Geolocation-service
 https://medium.com/@adeyinkaadegbenro/how-to-detect-the-location-of-your-websites-visitor-using-javascript-92f9e91c095f
+https://stackoverflow.com/questions/391979/how-to-get-clients-ip-address-using-javascript
 ==========
 
