@@ -62,4 +62,5 @@ reactive forms:
 https://github.com/codetok/cdk-admin/blob/1209a3f8fee342f3a9684d1dfb92a83dae2befdf/src/app/material-widgets/input/input.component.html
 =======================
 Rxjs: 1.https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511
+angular cli : https :ssl certificate: https://medium.com/@richardr39/using-angular-cli-to-serve-over-https-locally-70dab07417c8
 
