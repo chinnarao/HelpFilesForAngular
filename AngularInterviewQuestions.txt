@@ -16,5 +16,6 @@ answer: https://stackoverflow.com/questions/39494058/behaviorsubject-vs-observab
 
 11. lodash / underscore not required: https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
 12. viewencapsulation:none
+13. https://medium.freecodecamp.org/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0
 
 
