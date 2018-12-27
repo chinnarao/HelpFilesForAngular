@@ -77,5 +77,6 @@ https://developer.here.com/documentation/positioning/topics/request-first-locate
 https://github.com/quentin-ol/ngx-openlayers
 https://github.com/ultrasonicsoft/gmap-geolocation-demo/blob/master/src/app/app.component.ts
 only ip : great one: https://www.ipify.org/      good one time purchase: https://geo.ipify.org/pricing
+not bad: https://ipstack.com/documentation
 ==========
 
