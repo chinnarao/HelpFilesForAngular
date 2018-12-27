@@ -80,5 +80,6 @@ only ip : great one: https://www.ipify.org/      good one time purchase: https:/
 not bad: https://ipstack.com/documentation
 not bad: https://ipapi.com/product
 https://geoip.tools/
+perfect: https://ipdata.co/index.html, daily 1500
 ==========
 
