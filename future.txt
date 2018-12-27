@@ -1,1 +1,3 @@
 style: many scss files and main scss : https://github.com/CRCx86/coachu_boot_angular/tree/master/src/styles
+
+rxjs: https://blog.angular-university.io/rxjs-error-handling/
