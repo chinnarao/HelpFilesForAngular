@@ -73,5 +73,6 @@ http://getjsonip.com/
 http://maps.googleapis.com/maps/api/staticmap?center=38.000000,-97.000000&zoom=5&size=400x400&sensor=false&markers=color:blue|38.000000,-97.000000
 http://openlayers.org/
 https://developer.here.com/
+https://developer.here.com/documentation/positioning/topics/request-first-locate.html
 ==========
 
