@@ -69,5 +69,6 @@ https://github.com/jagdishmastek/Angular5-Geolocation-service
 https://medium.com/@adeyinkaadegbenro/how-to-detect-the-location-of-your-websites-visitor-using-javascript-92f9e91c095f
 https://stackoverflow.com/questions/391979/how-to-get-clients-ip-address-using-javascript
 https://www.geoplugin.com/quickstart
+http://getjsonip.com/
 ==========
 
