@@ -82,5 +82,6 @@ not bad: https://ipapi.com/product
 https://geoip.tools/
 perfect: https://ipdata.co/index.html, daily 1500
 5$ / month /60k   https://www.snoopi.io/#pricing
+free : 150/min => https://geoip-db.com/
 ==========
 
