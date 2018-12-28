@@ -7,3 +7,4 @@ https://github.com/onudesk/kpr-frontend/blob/428c2a55f7db5405998632e15314e98e658
 get id in ts file: <div #gmap></div>   : @ViewChild('gmap') gmapElement: any;
 ---------------------------------------------------------------------------
 how to include js libararies in angular : http://www.damirscorner.com/blog/posts/20170224-ImportingJavaScriptLibrariesInAngular2.html
+Namespace Imports in TypeScript: http://www.damirscorner.com/blog/posts/20170224-ImportingJavaScriptLibrariesInAngular2.html
