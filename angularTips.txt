@@ -8,3 +8,6 @@ get id in ts file: <div #gmap></div>   : @ViewChild('gmap') gmapElement: any;
 ---------------------------------------------------------------------------
 how to include js libararies in angular : http://www.damirscorner.com/blog/posts/20170224-ImportingJavaScriptLibrariesInAngular2.html
 Namespace Imports in TypeScript: http://www.damirscorner.com/blog/posts/20170224-ImportingJavaScriptLibrariesInAngular2.html
+google maps in angular steps: https://medium.com/@balramchavan/integrating-google-maps-in-angular-5-ca5f68009f29
+w3schools basics for geolocation: https://www.w3schools.com/html/html5_geolocation.asp
+----------------------------------------------------------------------------------------------------------------------
