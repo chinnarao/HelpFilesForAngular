@@ -35,3 +35,8 @@ npm install @ngrx/core @ngrx/store @ngrx/effects @ngrx/store-devtools @ngrx/rout
 ------
 npm uninstall <package-name>
 npm install --save-dev @types/geojson
+==========
+https:
+step 1:https://brettmckenzie.net/2018/03/14/serving-your-angular-cli-app-locally-over-https/
+step 2: npm install browser-sync --save-dev
+Step 2: ng serve --ssl true --ssl-key /node_modules/browser-sync/lib/server/certs/server.key --ssl-cert /node_modules/browser-sync/lib/server/certs/server.crt
