@@ -31,3 +31,6 @@ ng g c shared/components/home         -m=shared/shared.module
 ng g c shared/components/spinner      -m=shared/shared.module
 ---------------------------------------------------------------------------------------------------------
 npm install @ngrx/core @ngrx/store @ngrx/effects @ngrx/store-devtools @ngrx/router-store --save
+
+------
+npm uninstall <package-name>
