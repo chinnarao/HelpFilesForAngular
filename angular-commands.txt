@@ -10,6 +10,7 @@ ng g m map
 NOTE: -d(dryrun) Run with "dry run" no changes were made.
 ===========================generate component===========================================
 ng g c ad/ad-create -m=ad/ad.module
+ng g c -m=map/map.module map/ad-create-igo-map
 ng g c ad/ad-read   -m=ad/ad.module
 ng g c ad/ad-update -m=ad/ad.module
 ng g c ad/ad-delete -m=ad/ad.module
