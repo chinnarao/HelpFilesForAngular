@@ -15,3 +15,11 @@ https://stackblitz.com/edit/subjective?file=app%2Fapp.module.ts
 scooppages error handler: and code: 
 full code: angular: https://golb.hplar.ch/       ==>  https://github.com/ralscha/blog
 -----------------------------------------------------------------------------------------------------
+
+https://christianlydemann.com/implementing-a-plugin-architecture-with-angular-and-openlayers/
+https://github.com/lydemann/map-plugin-demo/blob/master/src/app/map/map-features/draw-controls/draw-controls.routing.ts
+https://angular.parts/
+https://www.mapbox.com/mapbox-gl-js/api/
+https://github.com/Wykks/ngx-mapbox-gl
+https://github.com/SebastianM/angular-google-maps
+https://github.com/ng2-ui/map
