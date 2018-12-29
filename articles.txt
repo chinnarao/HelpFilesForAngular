@@ -69,7 +69,6 @@ mapbox: https://github.com/wesdoyle/ng-run-journal
 https://www.w3schools.com/html/html5_geolocation.asp
 https://github.com/mandarini/mapp
 https://github.com/fegyi001/mangol
-https://www.youtube.com/watch?v=lApggVS0icc
 https://stackoverflow.com/questions/391979/how-to-get-clients-ip-address-using-javascript
 https://www.geoplugin.com/quickstart
 http://getjsonip.com/
