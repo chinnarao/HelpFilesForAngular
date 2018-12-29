@@ -1,0 +1,15 @@
+ERROR in src/app/_core/util.ts(1,22): error TS2732: Cannot find module 'src/assets/data/lookup.json'. 
+Consider using '--resolveJsonModule' to import module with '.json' extension
+
+solution: tsconfig.json : "resolveJsonModule": true,
+------------------------------------------------------------------------------------------------------
+ERROR in src/app/_core/util.ts(1,9): 
+error TS1192: Module '"C:/Users/chinn/OneDrive - Cooperative Office System/GitHub/spng3/src/assets/data/lookup"' has no default export.
+
+solution: tsconfig.json : "esModuleInterop": true,
+-------------------------------------------------------------------------------------------------------
+ERROR in src/app/_core/util.ts(8,27): 
+error TS2568: Type 'Set<string>' is not an array type. Use compiler option '--downlevelIteration' to allow iterating of iterators.
+
+solution: tsconfig.json :  "downlevelIteration": true,
+--------------------------------------------------------------------------------------------------------
