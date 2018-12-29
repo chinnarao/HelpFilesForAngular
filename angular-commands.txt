@@ -34,3 +34,4 @@ npm install @ngrx/core @ngrx/store @ngrx/effects @ngrx/store-devtools @ngrx/rout
 
 ------
 npm uninstall <package-name>
+npm install --save-dev @types/geojson
