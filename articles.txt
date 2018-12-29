@@ -64,26 +64,6 @@ https://github.com/codetok/cdk-admin/blob/1209a3f8fee342f3a9684d1dfb92a83dae2bef
 Rxjs: 1.https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511
 angular cli : https :ssl certificate: https://medium.com/@richardr39/using-angular-cli-to-serve-over-https-locally-70dab07417c8
 =======
-html 5 geolocation: 
-mapbox: https://github.com/wesdoyle/ng-run-journal
-https://www.w3schools.com/html/html5_geolocation.asp
-https://github.com/mandarini/mapp
-https://github.com/fegyi001/mangol
-https://stackoverflow.com/questions/391979/how-to-get-clients-ip-address-using-javascript
-https://www.geoplugin.com/quickstart
-http://getjsonip.com/
-http://maps.googleapis.com/maps/api/staticmap?center=38.000000,-97.000000&zoom=5&size=400x400&sensor=false&markers=color:blue|38.000000,-97.000000
-http://openlayers.org/
-https://developer.here.com/
-https://developer.here.com/documentation/positioning/topics/request-first-locate.html
-https://github.com/quentin-ol/ngx-openlayers
-https://github.com/ultrasonicsoft/gmap-geolocation-demo/blob/master/src/app/app.component.ts
-only ip : great one: https://www.ipify.org/      good one time purchase: https://geo.ipify.org/pricing
-not bad: https://ipstack.com/documentation
-not bad: https://ipapi.com/product
-https://geoip.tools/
-perfect: https://ipdata.co/index.html, daily 1500
-5$ / month /60k   https://www.snoopi.io/#pricing
-best : free : 150/min => https://geoip-db.com/
+
 ==========
 
