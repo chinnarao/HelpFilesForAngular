@@ -67,6 +67,8 @@ angular cli : https :ssl certificate: https://medium.com/@richardr39/using-angul
 html 5 geolocation: 
 mapbox: https://github.com/wesdoyle/ng-run-journal
 https://www.w3schools.com/html/html5_geolocation.asp
+https://github.com/mandarini/mapp
+https://github.com/fegyi001/mangol
 https://stackoverflow.com/questions/391979/how-to-get-clients-ip-address-using-javascript
 https://www.geoplugin.com/quickstart
 http://getjsonip.com/
