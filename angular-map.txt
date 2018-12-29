@@ -21,4 +21,6 @@ best : free : 150/min => https://geoip-db.com/
 https://christianlydemann.com/implementing-a-plugin-architecture-with-angular-and-openlayers/
 
 ============
+angular 4:    https://github.com/infra-geo-ouverte/igo2-demo
+angular 6:    https://github.com/infra-geo-ouverte/igo2-lib      https://infra-geo-ouverte.github.io/igo2-lib/#/search
 
