@@ -41,6 +41,7 @@ angular parts: https://angular.parts/
 angular library: https://devarchy.com/angular
 https://ngx.tools/#/search
 https://bestofjs.org/tags/angular
+https://libraries.io/
 ============================
 fullscreen: https://codepen.io/brenden/pen/VLjKMQ
 
