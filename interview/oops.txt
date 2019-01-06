@@ -65,4 +65,7 @@ No we can not.
 In what scenarios will you use a abstract class and in what scenarios will you use a  interface?
 
 If you want to increase reusability in inheritance then abstract classes are good. If you want implement or force some methods across classes must be for uniformity you can use a interface. So to increase  reusability via inheritance use abstract class as it is nothing but a base class and to force methods use interfaces.
+
+what is the diff between virtual vs abstract?
+Virtual methods have an implementation and provide the derived classes with the option of overriding it. Abstract methods do not provide an implementation and force the derived classes to override the method. So, abstract methods have no actual code in them, and subclasses HAVE TO override the method. A virtual function, is basically saying look, here's the functionality that may or may not be good enough for the child class, child class not necessary to override. So if it is good enough, use this method, if not, then override me, and provide your own functionality.
 =============================================================================================================================
