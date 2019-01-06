@@ -1,4 +1,5 @@
-
+https://medium.freecodecamp.org/a-short-overview-of-object-oriented-software-design-c7aa0a622c83
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 1. abstraction:Abstraction is the idea of simplifying a concept to its bare essentials in some context. It allows you to better understand the concept by stripping it down to a simplified version.
 
 The examples above illustrate abstraction — look at how the Fight class is structured. The way you use it is as simple as possible — you give it two heroes as arguments in instantiation and call the fight() method. Nothing more, nothing less.
