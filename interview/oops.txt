@@ -14,7 +14,10 @@ Abstraction in your code should follow the rule of least surprise. Your abstract
 5. association:  Defines a loose relationship between two components. Both components do not depend on one another but may work together.
    Example: Hero and a Zone object.
 
-6. aggregation:
+6. aggregation:Defines a weak “has-a” relationship between a whole and its parts. Considered weak, because the parts can exist without the whole.
+Example: HeroInventory and Item. 
+A HeroInventory can have many Items and an Item can belong to any HeroInventory(such as trading items).
+----------------------------------------------------------------------------------------------------------------
 
 7. Generalization:
 
