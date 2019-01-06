@@ -9,8 +9,19 @@ abstraction reduces complexity by hiding unnecessary detail.
 ==============================================================================
 2. encapsulation:Encapsulation can be thought of as putting something inside a capsule.In most languages, this is done through the so-called access modifiers (private, protected, and so on). 
 -------------------------------------------------------------------------------
-3. polymorphism:
+3. polymorphism: something occurs in several different forms. static or compile-time and dynamic.
+    static: implement multiple methods within the same class that use the same name but a different set of parameters. 
+    That is called method      overloading and represents a static form of polymorphism.
+    
+    Dynamic polymorphism: This form of polymorphism doesn’t allow the compiler to determine the executed method. Within an inheritance
+    hierarchy, a subclass can override a method of its superclass. That enables the developer of the subclass to customize or 
+    completely replace the behavior of that method.
+    
+    code: https://csharp-station.com/Tutorial/CSharp/Lesson09
 
+It also creates a form of polymorphism. Both methods, implemented by the super- and subclass, share the same name and parameters but provide different functionality.
+
+3.1 Inheritance:
 ============================================================================
 4. aggregation:Defines a weak “has-a” relationship between a whole and its parts. Considered weak, because the parts can exist without the whole.
 Example: HeroInventory and Item. 
