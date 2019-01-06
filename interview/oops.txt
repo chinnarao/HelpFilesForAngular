@@ -1,18 +1,26 @@
 
-1. abstraction:
+1. abstraction:Abstraction is the idea of simplifying a concept to its bare essentials in some context. It allows you to better understand the concept by stripping it down to a simplified version.
 
-2. encapsulation:
+The examples above illustrate abstraction — look at how the Fight class is structured. The way you use it is as simple as possible — you give it two heroes as arguments in instantiation and call the fight() method. Nothing more, nothing less.
 
+Abstraction in your code should follow the rule of least surprise. Your abstraction should not surprise anybody with needless and unrelated behavior/properties. In other words — it should be intuitive.
+==============================================================================
+2. encapsulation:Encapsulation can be thought of as putting something inside a capsule.In most languages, this is done through the so-called access modifiers (private, protected, and so on). 
+-------------------------------------------------------------------------------
 3. polymorphism:
 
 4. composition:
 
-5. association:
+5. association:  Defines a loose relationship between two components. Both components do not depend on one another but may work together.
+   Example: Hero and a Zone object.
 
 6. aggregation:
 
 7. Generalization:
 
-8. abstract class vs interface
+8. Decomposition
+Decomposition is the action of splitting an object into multiple separate smaller parts. Said parts are easier to understand, maintain and program.
+----------------------------------
+9. abstract class vs interface
 
-9. 
+10. protected vs protected internal
