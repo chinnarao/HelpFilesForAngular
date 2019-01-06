@@ -41,6 +41,7 @@ A comparison might clear things up: while abstraction reduces complexity by hidi
 Decomposition is the action of splitting an object into multiple separate smaller parts. Said parts are easier to understand, maintain and program.
 ----------------------------------
 9. abstract class vs interface
+   concrete class (non abstract class).
 
 10. protected vs protected internal
 ===================================================================questpond=================================================
