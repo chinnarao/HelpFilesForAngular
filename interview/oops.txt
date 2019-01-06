@@ -9,16 +9,16 @@ Abstraction in your code should follow the rule of least surprise. Your abstract
 -------------------------------------------------------------------------------
 3. polymorphism:
 
-4. composition:
-
-5. association:  Defines a loose relationship between two components. Both components do not depend on one another but may work together.
-   Example: Hero and a Zone object.
-
-6. aggregation:Defines a weak “has-a” relationship between a whole and its parts. Considered weak, because the parts can exist without the whole.
+============================================================================
+4. aggregation:Defines a weak “has-a” relationship between a whole and its parts. Considered weak, because the parts can exist without the whole.
 Example: HeroInventory and Item. 
 A HeroInventory can have many Items and an Item can belong to any HeroInventory(such as trading items).
-----------------------------------------------------------------------------------------------------------------
-
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+5. composition:A strong “has-a” relationship where the whole and the part cannot exist without each other. The parts cannot be shared, as the whole depends on those exact parts.
+---------------------------------------------------------
+6. association:  Defines a loose relationship between two components. Both components do not depend on one another but may work together.
+   Example: Hero and a Zone object.
+-----------------------------------------------------------
 7. Generalization:
 
 8. Decomposition
