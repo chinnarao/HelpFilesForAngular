@@ -1,1 +1,14 @@
 
+1. abstraction:
+
+2. encapsulation:
+
+3. polymorphism:
+
+4. composition:
+
+5. association:
+
+6. aggregation:
+
+7. Generalization:
