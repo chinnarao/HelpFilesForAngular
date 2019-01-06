@@ -43,3 +43,25 @@ Decomposition is the action of splitting an object into multiple separate smalle
 9. abstract class vs interface
 
 10. protected vs protected internal
+===================================================================questpond=================================================
+What is abstract class ?
+Abstract class is a base class or a parent class. Abstract classes can  have empty abstract methods or it can have implemented methods which can be overridden by child classes. 
+
+What are interfaces?
+Interface is a contract class with empty methods , properties and functions. Any class which implements the interface has to compulsory implement all the empty methods , functions and properties of the interface.
+
+What's the difference between abstract class and interface?
+There are many differences, below are some key two differences :-
+
+Abstract class are base class or parent class while interfaces are contracts.
+Abstract class can have some implemented methods and functions while interfaces methods and functions are completely empty.
+Abstract classes are inherited while interfaces are implemented.
+Abstract classes are used when we want to increase reusability in inheritance while interfaces are used to force a contract.
+
+Can we create a object of abstract class or interface?
+No we can not.
+
+In what scenarios will you use a abstract class and in what scenarios will you use a  interface?
+
+If you want to increase reusability in inheritance then abstract classes are good. If you want implement or force some methods across classes must be for uniformity you can use a interface. So to increase  reusability via inheritance use abstract class as it is nothing but a base class and to force methods use interfaces.
+=============================================================================================================================
