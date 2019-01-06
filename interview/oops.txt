@@ -4,6 +4,7 @@
 The examples above illustrate abstraction — look at how the Fight class is structured. The way you use it is as simple as possible — you give it two heroes as arguments in instantiation and call the fight() method. Nothing more, nothing less.
 
 Abstraction in your code should follow the rule of least surprise. Your abstraction should not surprise anybody with needless and unrelated behavior/properties. In other words — it should be intuitive.
+abstraction reduces complexity by hiding unnecessary detail.
 ==============================================================================
 2. encapsulation:Encapsulation can be thought of as putting something inside a capsule.In most languages, this is done through the so-called access modifiers (private, protected, and so on). 
 -------------------------------------------------------------------------------
@@ -20,7 +21,10 @@ A HeroInventory can have many Items and an Item can belong to any HeroInventory(
    Example: Hero and a Zone object.
 -----------------------------------------------------------
 7. Generalization:
+Generalization might be the most important design principle — it is the process of extracting shared characteristics and combining them in one place. All of us know about the concept of functions and class inheritance —both are a kind of generalization.
 
+A comparison might clear things up: while abstraction reduces complexity by hiding unnecessary detail, generalization reduces complexity by replacing multiple entities which perform similar functions with a single construct.
+------------------------------------------------------------------------------------------
 8. Decomposition
 Decomposition is the action of splitting an object into multiple separate smaller parts. Said parts are easier to understand, maintain and program.
 ----------------------------------
