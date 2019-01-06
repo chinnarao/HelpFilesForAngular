@@ -1,1 +1,21 @@
+1. what is the diff between , setValue() and patchValue()  Answer: https://angular.io/guide/reactive-forms
+2. what is polyfill
+3. what are the http verbs; answer: https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them
+4. javascript , event.preventDefault() vs event.stopPropagation() 
+5. angular, lazy load, routconfig using loadChildren, directly loads from the server and at the same time , remove homemodule in
+   appmodule.  https://blog.angular-university.io/angular2-ngmodule/
+6. angular , app-wide singleton and only instantiated once, using  "@Injectable({  providedIn: 'root',})"
+7. angula, href vs routerLink : href will do a complete reload of your page with a new uri,routerLink there will be only one
+   instance of your service through the app.
+8. what you like in angular: https://angular-guru.com/blog/angular-more-unknown-features
+   dependency injection, tree shaking, hammerjs support, reactive forms, validations, module lazy load, interceptors, Preload Lazy Modules
+
+9. https://confluence.ucdmc.ucdavis.edu/confluence/download/attachments/54243991/How%20to%20define%20a%20highly%20scalable%20folder%20structure%20for%20your%20Angular%20project.pdf?version=1&modificationDate=1538681481000&api=v2
+10. rxjs, When would you use an Observable vs a BehaviorSubject?
+answer: https://stackoverflow.com/questions/39494058/behaviorsubject-vs-observable
+
+11. lodash / underscore not required: https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
+12. viewencapsulation:none
+13. https://medium.freecodecamp.org/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0
+14. html5 intereview questions: https://github.com/utatti/Front-end-Developer-Interview-Questions-And-Answers/blob/master/answers/html-questions.md
 
