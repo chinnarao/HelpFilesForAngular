@@ -12,3 +12,7 @@
 6. aggregation:
 
 7. Generalization:
+
+8. abstract class vs interface
+
+9. 
