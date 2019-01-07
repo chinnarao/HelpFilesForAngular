@@ -5,7 +5,7 @@ Encapsulation : Prevents the data from unwanted access by binding of code and da
 Inheritance : Promotes the reusability of code and eliminates the use of redundant code.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 1. abstraction:Abstraction is the idea of simplifying a concept to its bare essentials in some context. It allows you to better understand the concept by stripping it down to a simplified version.
-
+ Abstraction is one of the OOP concepts. It is used to display only the essential features of the class and hides the unnecessary information.
 The examples above illustrate abstraction — look at how the Fight class is structured. The way you use it is as simple as possible — you give it two heroes as arguments in instantiation and call the fight() method. Nothing more, nothing less.
 
 Abstraction in your code should follow the rule of least surprise. Your abstraction should not surprise anybody with needless and unrelated behavior/properties. In other words — it should be intuitive.
