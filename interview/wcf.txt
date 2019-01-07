@@ -10,7 +10,8 @@ WSHttpBinding: => Http/Https, WS - * spec: WS–Reliable Messaging, WS - Transac
 WsDualHttpBinding: =>wsHttpBinding plus Bi-directional communication means both clients and services can send and receive messages.
 NetTcpBinding: =>TCP protocol,Faster and more reliable binding as compared to the Http protocol bindings. 
                  It is only used when communication is WCF - to – WCF means both client and service should have WCF.
-NetNamedPipeBinding: => Communication between two services on the same machine. most secure and fastest binding among all the bindings.
+NetNamedPipeBinding: => 	"Named Pipe binding" Communication between two services on the same machine. 
+                          most secure and fastest binding   among all the bindings.
 NetMsmqBinding: =>MSMQ, for transport and offers sup-port to disconnected message queued. It provides solutions for disconnected                    scenarios in which service processes the message at a different time than the client send the messages.
 WSFederationHttpBinding: =>It is a specialized form of WS binding and provides support to federated security.
 
