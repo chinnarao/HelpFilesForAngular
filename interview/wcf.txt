@@ -14,10 +14,8 @@ NetNamedPipeBinding: => 	"Named Pipe binding" Communication between two services
                           most secure and fastest binding   among all the bindings.
 NetMsmqBinding: =>MSMQ, for transport and offers sup-port to disconnected message queued. It provides solutions for disconnected                    scenarios in which service processes the message at a different time than the client send the messages.
 WSFederationHttpBinding: =>It is a specialized form of WS binding and provides support to federated security.
-
 NetPeerTcpBinding: =>TCP protocol but uses peer net-working as transport. In this networking each machine (node) acts as a client and a server to the other nodes. This is used in the file sharing systems like torrent.
-
 MsmqIntegrationBinding: =>MSMQ
 --------------------------------------------------------------------------------------------------
-wcf hostings:
+wcf hostings: 1. IIS Hosting  2. Self-Hosting  3.WAS Hosting  4.Windows Service Hosting
 --------------------------------------------------------------------------------------------------
