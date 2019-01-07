@@ -23,3 +23,6 @@ Host and consume a WCF service over TCP : https://chsakell.com/2013/04/06/host-a
 ----------------------------------------------------------------------------------------------------------------------
 Host WCF in a Windows Service Using TCP: https://www.c-sharpcorner.com/UploadFile/ff2f08/host-wcf-in-a-windows-service-using-tcp/
 ----------------------------------------------------------------------------------------------------------------------
+Advantages and Disadvantages of Self Hosting WCF Services : 
+https://thoughtscroll.wordpress.com/2009/02/17/advantages-and-disadvantages-of-self-hosting-wcf-services/
+----------------------------------------------------------------------------------------------------------------------
