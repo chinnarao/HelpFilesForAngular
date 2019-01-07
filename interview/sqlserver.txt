@@ -10,7 +10,8 @@ What is filter index? When the index is created with WHERE clause, it is called 
 difference between UNION and UNION ALL? UNION ALL command is equal to UNION command, except that UNION ALL selects all the values. The difference between Union and Union all is that Union all will not eliminate duplicate rows, instead it just pulls all the rows from all the tables fitting your query specifics and combines them into a table.
 performance wise , union all is good than union.
 ============================================================================================================================
-Lazy Loading?  ==>>  https://wildermuth.com/2018/07/28/Avoid-Lazy-Loading-in-ASP-NET
+Lazy Loading?  ==>> UseLazyLoadingProxies() ==>>  https://wildermuth.com/2018/07/28/Avoid-Lazy-Loading-in-ASP-NET
+Lazy loading without proxies(): ==>>  http://jaliyaudagedara.blogspot.com/2018/05/entity-framework-core-lazy-loading.html
 protected override void OnConfiguring(DbContextOptionsBuilder opt){opt.UseLazyLoadingProxies();}
 ============================================================================================================================
 
