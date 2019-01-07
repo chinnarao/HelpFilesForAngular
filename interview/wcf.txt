@@ -18,4 +18,6 @@ NetPeerTcpBinding: =>TCP protocol but uses peer net-working as transport. In thi
 MsmqIntegrationBinding: =>MSMQ
 --------------------------------------------------------------------------------------------------
 wcf hostings: 1. IIS Hosting  2. Self-Hosting  3.WAS Hosting  4.Windows Service Hosting
---------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+Host and consume a WCF service over TCP : https://chsakell.com/2013/04/06/host-and-consume-a-wcf-service-over-tcp/
+----------------------------------------------------------------------------------------------------------------------
