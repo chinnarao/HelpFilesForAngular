@@ -11,6 +11,7 @@ difference between UNION and UNION ALL? UNION ALL command is equal to UNION comm
 performance wise , union all is good than union.
 ============================================================================================================================
 Lazy Loading?  ==>>  https://wildermuth.com/2018/07/28/Avoid-Lazy-Loading-in-ASP-NET
+protected override void OnConfiguring(DbContextOptionsBuilder opt){opt.UseLazyLoadingProxies();}
 ============================================================================================================================
 
 ============================================================================================================================
