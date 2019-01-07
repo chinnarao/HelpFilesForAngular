@@ -1,1 +1,22 @@
 
+Configure WCF Service to REST : => webHttpBinding  : => [WebGet(UriTemplate = "/GetProducts", ResponseFormat = WebMessageFormat.Json)]
+[WebInvoke(Method = "POST", UriTemplate = "AddProduct/{productId}/{ProductName}/{ProductDescription}")]
+https://www.codeproject.com/Tips/803009/%2FTips%2F803009%2FConfigure-WCF-Service-to-REST
+--------------------------------------------------------------------------------------------------
+BasicHttpBinding: =>  ASMX, Https.
+WebHttpBinding: =>   REST, XML/JSON,
+WSHttpBinding: => Http/Https, WS - * spec: WS–Reliable Messaging, WS - Transactions, WS-Security:not supported by BasicHttpBinding
+                wsHttpBinding= basicHttpBinding + WS-* specification
+WsDualHttpBinding: =>wsHttpBinding plus Bi-directional communication means both clients and services can send and receive messages.
+NetTcpBinding: =>TCP protocol,Faster and more reliable binding as compared to the Http protocol bindings. 
+                 It is only used when communication is WCF - to – WCF means both client and service should have WCF.
+NetNamedPipeBinding: => Communication between two services on the same machine. most secure and fastest binding among all the bindings.
+NetMsmqBinding: =>MSMQ, for transport and offers sup-port to disconnected message queued. It provides solutions for disconnected                    scenarios in which service processes the message at a different time than the client send the messages.
+WSFederationHttpBinding: =>It is a specialized form of WS binding and provides support to federated security.
+
+NetPeerTcpBinding: =>TCP protocol but uses peer net-working as transport. In this networking each machine (node) acts as a client and a server to the other nodes. This is used in the file sharing systems like torrent.
+
+MsmqIntegrationBinding: =>MSMQ
+--------------------------------------------------------------------------------------------------
+wcf hostings:
+--------------------------------------------------------------------------------------------------
