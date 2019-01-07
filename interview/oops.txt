@@ -89,6 +89,7 @@ func : return , Action : void, Predicate : bool
 Action is a delegate (pointer) to a method, that takes zero, one or more input parameters, but does not return anything.
 Func is a delegate (pointer) to a method, that takes zero, one or more input parameters, and returns a value (or reference).
 Predicate is a special kind of Func often used for comparisons. Predicate is a function pointer for method which returns boolean value. They are commonly used for iterating a collection or to verify if the value does already exist.
+Predicate can be used with method, anonymous and lambda expression.
 ==================================================================================================================================
 
 ==================================================================================================================================
