@@ -2,3 +2,10 @@
 Lazy Loading?  ==>> UseLazyLoadingProxies() ==>>  https://wildermuth.com/2018/07/28/Avoid-Lazy-Loading-in-ASP-NET
 Lazy loading without proxies(): ==>>  http://jaliyaudagedara.blogspot.com/2018/05/entity-framework-core-lazy-loading.html
 protected override void OnConfiguring(DbContextOptionsBuilder opt){opt.UseLazyLoadingProxies();}
+-------------------------------------------------------------------------------------------------------------------------------
+Singleordefault vs Firstordefault : Both are the element operators and they are used to select a single element from a sequence. But there is a minor difference between them. SingleOrDefault() operator would throw an exception if more than one elements are satisfied the condition where as FirstOrDefault() will not throw any exception for the same.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
