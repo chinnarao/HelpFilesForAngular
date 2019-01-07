@@ -78,8 +78,9 @@ Static Constructor? Static constructor is used to initialize static data of a cl
 Public;Private;Protected;Internal;Protected internal
 =========================================================
 Delegate ? Delegates are type safe function pointer. It holds reference to a function.
-Deep copy vs shallow copy? 
-clone?
 Indexer? An Indexer is a member that enables an object to be indexed like Arrays.
 sealed? disable inheritance,on a class or a method. When used on a method, derived classes can’t override the method.
 Class and Structure? see screen shot
+--------------------------
+clone? Shallow copy(memberwisecloning) || Deep copy(serialize and deserialize): classes to be cloned must be flagged as [Serializable]
+Array.CopyTo() vs Array.Clone() : => both shallow copy. copyto on existing and clone on brand new array; in clone can assign new value which will reflect only one not both.
