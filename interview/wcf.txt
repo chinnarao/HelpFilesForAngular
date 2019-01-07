@@ -21,3 +21,5 @@ wcf hostings: 1. IIS Hosting  2. Self-Hosting  3.WAS Hosting  4.Windows Service 
 ----------------------------------------------------------------------------------------------------------------------
 Host and consume a WCF service over TCP : https://chsakell.com/2013/04/06/host-and-consume-a-wcf-service-over-tcp/
 ----------------------------------------------------------------------------------------------------------------------
+Host WCF in a Windows Service Using TCP: https://www.c-sharpcorner.com/UploadFile/ff2f08/host-wcf-in-a-windows-service-using-tcp/
+----------------------------------------------------------------------------------------------------------------------
