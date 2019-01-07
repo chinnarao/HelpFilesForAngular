@@ -82,4 +82,4 @@ Deep copy vs shallow copy?
 clone?
 Indexer? An Indexer is a member that enables an object to be indexed like Arrays.
 sealed? disable inheritance,on a class or a method. When used on a method, derived classes can’t override the method.
-Class and Structure?
+Class and Structure? see screen shot
