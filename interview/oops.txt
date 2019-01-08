@@ -100,7 +100,8 @@ Predicate is a special kind of Func often used for comparisons. Predicate is a f
 Predicate can be used with method, anonymous and lambda expression.
 ==================================================================================================================================
 What is a Destructor in C#?
-Ans: A Destructor is used to clean up the memory and free the resources. But in C# this is done by the garbage collector on its own. System.GC.Collect() is called internally for cleaning up. But sometimes it may be necessary to implement destructors manually.
+Ans: A Destructor is used to clean up the memory and free the resources. But in C# this is done by the garbage collector on its own.
+System.GC.Collect() is called internally for cleaning up. But sometimes it may be necessary to implement destructors manually.
 ==================================================================================================================================
 yeild? The yield keyword performs custom and stateful iteration and returns each element of a collection one at a time with out the need
 of creating temporary collections      =>>>https://www.kenneth-truyers.net/2016/05/12/yield-return-in-c/
