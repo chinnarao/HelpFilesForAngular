@@ -78,7 +78,9 @@ for the child class, child class not necessary to override. So if it is good eno
 provide your own functionality.
 https://www.youtube.com/watch?v=okG3cHgFeak
 =============================================================================================================================
-Static Constructor? Static constructor is used to initialize static data of a class. Compiler calls the static constructor before the first instance is created.No access specifier is required to define it; You can not pass parameters to static constructor; A class can have only one static constructor; It can access only static members of class; It is invoked only once, when the program execution begins
+Static Constructor? Static constructor is used to initialize static data of a class. Compiler calls the static constructor before the
+first instance is created.No access specifier is required to define it; You can not pass parameters to static constructor; A class can
+have only one static constructor; It can access only static members of class; It is invoked only once, when the program execution begins
 ==============================================================================================================================
 Public;Private;Protected;Internal;Protected internal
 =========================================================
