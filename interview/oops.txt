@@ -44,12 +44,11 @@ A comparison might clear things up: while abstraction reduces complexity by hidi
 8. Decomposition
 Decomposition is the action of splitting an object into multiple separate smaller parts. Said parts are easier to understand, maintain and program.
 ----------------------------------
-9. abstract class vs interface
-   concrete class (non abstract class).
+9. 
 
-10. protected vs protected internal
+10. protected vs protected internal (see screnshot "accessmodifier.img")
 ===================================================================questpond=================================================
-What is abstract class ?
+What is abstract class ?  concrete class (non abstract class).
 Abstract class is a base class or a parent class. Abstract classes can  have empty abstract methods or it can have implemented methods which can be overridden by child classes. 
 
 What are interfaces?
@@ -103,7 +102,8 @@ Predicate can be used with method, anonymous and lambda expression.
 What is a Destructor in C#?
 Ans: A Destructor is used to clean up the memory and free the resources. But in C# this is done by the garbage collector on its own. System.GC.Collect() is called internally for cleaning up. But sometimes it may be necessary to implement destructors manually.
 ==================================================================================================================================
-yeild? The yield keyword performs custom and stateful iteration and returns each element of a collection one at a time with out the need of creating temporary collections      =>>>https://www.kenneth-truyers.net/2016/05/12/yield-return-in-c/
+yeild? The yield keyword performs custom and stateful iteration and returns each element of a collection one at a time with out the need
+of creating temporary collections      =>>>https://www.kenneth-truyers.net/2016/05/12/yield-return-in-c/
 ==================================================================================================================================
 
 ==================================================================================================================================
