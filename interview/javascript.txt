@@ -1,1 +1,4 @@
 
+what is closure?
+
+did you use any patterns?
