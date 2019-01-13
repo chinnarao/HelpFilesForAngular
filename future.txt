@@ -4,3 +4,5 @@ style: many scss files and main scss : https://github.com/CRCx86/coachu_boot_ang
 rxjs: https://blog.angular-university.io/rxjs-error-handling/
 
 form styles : https://stackblitz.com/edit/angular2-notifications-example
+
+errors: https://www.npmjs.com/package/@ultimate/ngxerrors
