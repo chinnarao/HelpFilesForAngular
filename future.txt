@@ -6,3 +6,6 @@ rxjs: https://blog.angular-university.io/rxjs-error-handling/
 form styles : https://stackblitz.com/edit/angular2-notifications-example
 
 errors: https://www.npmjs.com/package/@ultimate/ngxerrors
+
+
+A commonly suggested work around is to dynamically add script tags to the document via the ngAfterViewInit hook, but this is obviously not proper ng2 practice and will not work server side, which JSON-LD obviously needs to be able to do.
