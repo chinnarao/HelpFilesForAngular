@@ -1,0 +1,1 @@
+1. cast object: https://acdcjunior.github.io/typescript-cast-object-to-other-type-or-instanceof.html
