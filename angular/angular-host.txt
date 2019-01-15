@@ -23,3 +23,6 @@ https://www.mapbox.com/mapbox-gl-js/api/
 https://github.com/Wykks/ngx-mapbox-gl
 https://github.com/SebastianM/angular-google-maps
 https://github.com/ng2-ui/map
+
+=====
+upload: https://blog.realworldfullstack.io/real-world-app-part-17-cloud-storage-with-firebase-and-angular-d3d2c9f5f27c
