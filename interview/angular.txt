@@ -19,4 +19,5 @@ answer: https://stackoverflow.com/questions/39494058/behaviorsubject-vs-observab
 13. https://medium.freecodecamp.org/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0
 14. html5 intereview questions: https://github.com/utatti/Front-end-Developer-Interview-Questions-And-Answers/blob/master/answers/html-questions.md
 15.  Async pipe versus Subscribe in Angular ? https://kimsereyblog.blogspot.com/2018/05/async-pipe-versus-subscribe-in-angular.html
+16. markForCheck vs detectChanges: https://medium.com/@pablo.platt/can-you-please-explain-when-to-use-markforcheck-and-when-detectchanges-52e281783c6
 
