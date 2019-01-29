@@ -1,5 +1,4 @@
 mapbox: https://github.com/wesdoyle/ng-run-journal
-https://www.w3schools.com/html/html5_geolocation.asp
 --------
 https://github.com/mandarini/mapp
 https://www.youtube.com/watch?v=PqfJbbWdUWQ
