@@ -1,4 +1,5 @@
 mapbox: https://github.com/wesdoyle/ng-run-journal
+https://wiki.openstreetmap.org/wiki/OpenLayers_Marker_Example
 --------
 https://github.com/mandarini/mapp
 https://www.youtube.com/watch?v=PqfJbbWdUWQ
