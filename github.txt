@@ -55,5 +55,8 @@ http://angularjs.bestjquery.com/demo/date-picker/
  re captcha: https://github.com/vad3x/Vad3x.Extensions.AspNetCore/tree/bd90d849cad4361e521455d579fe88cadcc4881a/src
  
  great code : https://github.com/CAUCA-9-1-1/survip-webapi
- 
+ -------------------------
+ for pwd rules:
+ https://github.com/JwanKhalaf/Bejebeje.Identity/blob/0ceffbd4a2d5d69b8ea7af6a8b79587bb968f39e/Bejebeje.Identity/Startup.cs
+ ---------------------------------------------------------------------------------------------------------------------------
 
