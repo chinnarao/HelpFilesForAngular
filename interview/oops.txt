@@ -1,6 +1,6 @@
 https://medium.freecodecamp.org/a-short-overview-of-object-oriented-software-design-c7aa0a622c83
 Abstraction : Abstraction is the process of exposing only the relevant data to the users without showing unnecessary information
-Polymorphism : I allows you to use an entity in multiple forms
+Polymorphism : Allows you to use an entity in multiple forms
 Encapsulation : Prevents the data from unwanted access by binding of code and data in a single unit called object
 Inheritance : Promotes the reusability of code and eliminates the use of redundant code.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
