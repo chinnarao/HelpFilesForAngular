@@ -27,32 +27,39 @@ It also creates a form of polymorphism. Both methods, implemented by the super- 
 
 3.1 Inheritance:
 ============================================================================
-4. aggregation:Defines a weak “has-a” relationship between a whole and its parts. Considered weak, because the parts can exist without the whole.
+4. aggregation:Defines a weak “has-a” relationship between a whole and its parts. Considered weak, because the parts can exist without
+the whole.
 Example: HeroInventory and Item. 
 A HeroInventory can have many Items and an Item can belong to any HeroInventory(such as trading items).
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-5. composition:A strong “has-a” relationship where the whole and the part cannot exist without each other. The parts cannot be shared, as the whole depends on those exact parts.
+5. composition:A strong “has-a” relationship where the whole and the part cannot exist without each other. The parts cannot be shared,
+as the whole depends on those exact parts.
 ---------------------------------------------------------
 6. association:  Defines a loose relationship between two components. Both components do not depend on one another but may work together.
    Example: Hero and a Zone object.
 -----------------------------------------------------------
 7. Generalization:
-Generalization might be the most important design principle — it is the process of extracting shared characteristics and combining them in one place. All of us know about the concept of functions and class inheritance —both are a kind of generalization.
+Generalization might be the most important design principle — it is the process of extracting shared characteristics and combining them
+in one place. All of us know about the concept of functions and class inheritance —both are a kind of generalization.
 
-A comparison might clear things up: while abstraction reduces complexity by hiding unnecessary detail, generalization reduces complexity by replacing multiple entities which perform similar functions with a single construct.
+A comparison might clear things up: while abstraction reduces complexity by hiding unnecessary detail, generalization reduces complexity
+by replacing multiple entities which perform similar functions with a single construct.
 ------------------------------------------------------------------------------------------
 8. Decomposition
-Decomposition is the action of splitting an object into multiple separate smaller parts. Said parts are easier to understand, maintain and program.
+Decomposition is the action of splitting an object into multiple separate smaller parts. Said parts are easier to understand, maintain
+and program.
 ----------------------------------
 9. 
 
 10. protected vs protected internal (see screnshot "accessmodifier.img")
 ===================================================================questpond=================================================
 What is abstract class ?  concrete class (non abstract class).
-Abstract class is a base class or a parent class. Abstract classes can  have empty abstract methods or it can have implemented methods which can be overridden by child classes. 
+Abstract class is a base class or a parent class. Abstract classes can  have empty abstract methods or it can have implemented methods
+which can be overridden by child classes. 
 
 What are interfaces?
-Interface is a contract class with empty methods , properties and functions. Any class which implements the interface has to compulsory implement all the empty methods , functions and properties of the interface.
+Interface is a contract class with empty methods , properties and functions. Any class which implements the interface has to compulsory
+implement all the empty methods , functions and properties of the interface.
 
 What's the difference between abstract class and interface?
 There are many differences, below are some key two differences :-
