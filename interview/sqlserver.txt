@@ -7,10 +7,12 @@ difference between Local and Global temporary tables?
 Local temporary table – These tables are invisible when there is a connection and are deleted when it is closed.
 Global temporary table – These tables are visible to all users and are deleted when the connection is closed.
 ============================================================================================================================
-What is filter index? When the index is created with WHERE clause, it is called Filter index.It is used to filter some of the rows in a table in order to improve the performance, index maintenance and reduce the index storage cost.
+What is filter index? When the index is created with WHERE clause, it is called Filter index.It is used to filter some of the rows in a
+table in order to improve the performance, index maintenance and reduce the index storage cost.
 ============================================================================================================================
-difference between UNION and UNION ALL? UNION ALL command is equal to UNION command, except that UNION ALL selects all the values. The difference between Union and Union all is that Union all will not eliminate duplicate rows, instead it just pulls all the rows from all the tables fitting your query specifics and combines them into a table.
-performance wise , union all is good than union.
+difference between UNION and UNION ALL? UNION ALL command is equal to UNION command, except that UNION ALL selects all the values. 
+The difference between Union and Union all is that Union all will not eliminate duplicate rows, instead it just pulls all the rows 
+from all the tables fitting your query specifics and combines them into a table.performance wise , union all is good than union.
 ============================================================================================================================
 ============================================================================================================================
 
