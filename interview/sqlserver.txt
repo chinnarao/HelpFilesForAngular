@@ -1,5 +1,7 @@
 
-What is COALESCE and CHECK constraint in SQL server? COALESCE – It is a function that is used to return the first non-null expression from more than one column within the arguments.CHECK constraint – It is used to enforce the integrity. It is applied to a column in a table to limit the values that have to be placed in a column.
+What is COALESCE and CHECK constraint in SQL server? COALESCE – It is a function that is used to return the first non-null expression 
+from more than one column within the arguments.CHECK constraint – It is used to enforce the integrity. It is applied to a column in a
+table to limit the values that have to be placed in a column.
 ============================================================================================================================
 difference between Local and Global temporary tables?
 Local temporary table – These tables are invisible when there is a connection and are deleted when it is closed.
